@@ -1,0 +1,2166 @@
+RISPOSTE APERTE — Fisico — FUNZIONALITÀ DESIDERATE
+Domanda: 12. Quali ulteriori funzionalità vorresti vedere in una futura versione del museo VR?
+============================================================
+
+[R1] Interazione con strumenti antichi e esperienze tematiche
+
+[R2] Percorsi personalizzati e quiz durante la visita
+
+[R3] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R4] Esperienze narrative e possibilità di fare domande
+
+[R5] Supporto per visori diversi e modalità esperto
+
+[R6] Esplorazione libera in stile open world e supporto per più lingue
+
+[R7] Contenuti storici dinamici e conferenze virtuali
+
+[R8] Esplorazione libera in stile open world e visite guidate registrate
+
+[R9] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R10] Visite notturne simulate e incontri con avatar storici
+
+[R11] non so
+
+[R12] Visite notturne simulate e accesso a documenti d'archivio
+
+[R13] Esplorazione libera in stile open world e visite guidate registrate
+
+[R14] Interazione con strumenti antichi e esperienze tematiche
+
+[R15] Scenari animati e incontri con avatar storici
+
+[R16] non so
+
+[R17] Tecnologia vocale e supporto per visori diversi
+
+[R18] Visite notturne simulate e visite notturne simulate
+
+[R19] Accesso a documentari e gamification educativa
+
+[R20] Tracce audio storiche e musica ambientale storica
+
+[R21] Chat con esperti e modalità accessibile
+
+[R22] Gamification educativa e riconoscimento facciale per emozioni
+
+[R23] non so
+
+[R24] Chat con esperti e modalità accessibile
+
+[R25] Accesso a documenti d'archivio e accesso offline
+
+[R26] Visite notturne simulate e visite notturne simulate
+
+[R27] Tecnologia vocale e supporto a haptic feedback
+
+[R28] Ricerca vocale e esperienze multisensoriali
+
+[R29] Accesso a documentari e accesso a documenti d'archivio
+
+[R30] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R31] Contenuti storici dinamici e possibilità di fare domande
+
+[R32] Integrazione con la realtà fisica e domande aperte guidate
+
+[R33] Accesso offline e modalità realtà mista
+
+[R34] non so
+
+[R35] Conferenze virtuali e accesso offline
+
+[R36] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R37] Interazione con strumenti antichi e modalità accessibile
+
+[R38] non so
+
+[R39] non so
+
+[R40] Supporto per visori diversi e modalità realtà mista
+
+[R41] Modalità accessibile e accesso a documenti d'archivio
+
+[R42] Ricerca vocale e scelta del livello di dettaglio
+
+[R43] Accesso a documentari e gamification educativa
+
+[R44] non so
+
+[R45] Integrazione con la realtà fisica e domande aperte guidate
+
+[R46] non so
+
+[R47] Conferenze virtuali e accesso offline
+
+[R48] Domande aperte guidate e quiz durante la visita
+
+[R49] Esperienza per bambini e esperienze tematiche
+
+[R50] Accesso a documentari
+
+[R51] Contenuti storici dinamici e guide virtuali parlanti
+
+[R52] Modalità cooperativa e integrazione con la realtà fisica
+
+[R53] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R54] Accesso a documentari
+
+[R55] Esplorazione libera in stile open world e possibilità di fare domande
+
+[R56] Conferenze virtuali e accesso offline
+
+[R57] Tracce audio storiche e tecnologia vocale
+
+[R58] Visite notturne simulate e interazione con strumenti antichi
+
+[R59] non so
+
+[R60] Supporto per visori diversi e modalità esperto
+
+[R61] Domande aperte guidate e quiz durante la visita
+
+[R62] Visione storica evolutiva e tecnologia vocale
+
+[R63] Visite notturne simulate e accesso a documenti d'archivio
+
+[R64] Visite guidate registrate e visite in tempo reale con amici
+
+[R65] Esplorazione libera in stile open world e tracce audio storiche
+
+[R66] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R67] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R68] Integrazione con la realtà fisica e esperienze tematiche
+
+[R69] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R70] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R71] non so
+
+[R72] Supporto per visori diversi e modalità esperto
+
+[R73] Esperienze tematiche e collezioni temporanee interattive
+
+[R74] Esperienze tematiche e collezioni temporanee interattive
+
+[R75] Possibilità di fare domande e esperienze in prima persona
+
+[R76] Tracce audio storiche e visite notturne simulate
+
+[R77] Visione storica evolutiva e realtà aumentata integrata
+
+[R78] non so
+
+[R79] Esplorazione libera in stile open world e possibilità di fare domande
+
+[R80] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R81] Supporto per visori diversi e modalità realtà mista
+
+[R82] Incontri con avatar storici e tecnologia vocale
+
+[R83] Scenari animati e riconoscimento facciale per emozioni
+
+[R84] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R85] Scelta del livello di dettaglio e reazioni ambientali realistiche
+
+[R86] Modalità cooperativa e interazione con strumenti antichi
+
+[R87] Tracce audio storiche e supporto a haptic feedback
+
+[R88] Creazione del proprio avatar e visione a raggi x degli oggetti
+
+[R89] non so
+
+[R90] Visite notturne simulate e incontri con avatar storici
+
+[R91] non so
+
+[R92] non so
+
+[R93] non so
+
+[R94] Modalità fotografica e simulazioni storiche in tempo reale
+
+[R95] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R96] Esperienze in prima persona e creazione del proprio avatar
+
+[R97] non so
+
+[R98] Gamification educativa e riconoscimento facciale per emozioni
+
+[R99] Supporto per visori diversi e modalità esperto
+
+[R100] Visite notturne simulate e interazione con strumenti antichi
+
+[R101] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R102] Visite notturne simulate e accesso a documenti d'archivio
+
+[R103] Riproduzione di eventi storici e esperienze tematiche
+
+[R104] Traduzione simultanea e tracce audio storiche
+
+[R105] Esplorazione libera in stile open world e possibilità di fare domande
+
+[R106] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R107] Gamification educativa e visite notturne simulate
+
+[R108] Possibilità di fare domande e esperienze in prima persona
+
+[R109] non so
+
+[R110] non so
+
+[R111] Visione storica evolutiva e incontri con avatar storici
+
+[R112] non so
+
+[R113] Interazioni con altri visitatori e modalità fotografica
+
+[R114] non so
+
+[R115] Esperienza per bambini e supporto per visori diversi
+
+[R116] Esperienza per bambini e visione storica evolutiva
+
+[R117] Esplorazione libera in stile open world e visite guidate registrate
+
+[R118] Esperienze in prima persona e accesso offline
+
+[R119] non so
+
+[R120] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R121] Esperienza per bambini e supporto per visori diversi
+
+[R122] Tracce audio storiche e musica ambientale storica
+
+[R123] Tecnologia vocale e contenuti adattivi all'età
+
+[R124] Gamification educativa e tecnologia vocale
+
+[R125] Ricostruzioni 3D dettagliate e sincronizzazione con l'app mobile
+
+[R126] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R127] Esperienze narrative e supporto per più lingue
+
+[R128] non so
+
+[R129] Modalità cooperativa e interazione con strumenti antichi
+
+[R130] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R131] non so
+
+[R132] Tracce audio storiche e visite notturne simulate
+
+[R133] non so
+
+[R134] Tecnologia vocale e supporto a haptic feedback
+
+[R135] Riproduzione di eventi storici e supporto a haptic feedback
+
+[R136] Modalità cooperativa e integrazione con la realtà fisica
+
+[R137] Visite notturne simulate e visite notturne simulate
+
+[R138] non so
+
+[R139] Visite notturne simulate e accesso a documenti d'archivio
+
+[R140] Visione storica evolutiva e tecnologia vocale
+
+[R141] Modalità esperto e tecnologia vocale
+
+[R142] Esperienze narrative e visione a raggi x degli oggetti
+
+[R143] Possibilità di fare domande e esperienze in prima persona
+
+[R144] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R145] Tecnologia vocale e contenuti adattivi all'età
+
+[R146] Contenuti storici dinamici e possibilità di fare domande
+
+[R147] Interazioni con altri visitatori e modalità fotografica
+
+[R148] Modalità esperto e domande aperte guidate
+
+[R149] Contenuti storici dinamici e guide virtuali parlanti
+
+[R150] Traduzione simultanea e tracce audio storiche
+
+[R151] Domande aperte guidate e quiz durante la visita
+
+[R152] Tracce audio storiche e tecnologia vocale
+
+[R153] Modalità cooperativa e interazione con strumenti antichi
+
+[R154] Esplorazione libera in stile open world e esperienze in prima persona
+
+[R155] Scenari animati e modalità fotografica
+
+[R156] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R157] Riproduzione di eventi storici e supporto a haptic feedback
+
+[R158] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R159] Esplorazione libera in stile open world e possibilità di fare domande
+
+[R160] Contenuti adattivi all'età e esperienze tematiche
+
+[R161] Visite notturne simulate e simulazioni storiche in tempo reale
+
+[R162] Integrazione con la realtà fisica e domande aperte guidate
+
+[R163] non so
+
+[R164] Tecnologia vocale e supporto per visori diversi
+
+[R165] Percorsi personalizzati e quiz durante la visita
+
+[R166] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R167] Contenuti storici dinamici e conferenze virtuali
+
+[R168] Riconoscimento facciale per emozioni e scenari animati
+
+[R169] non so
+
+[R170] Esperienze multisensoriali e contenuti adattivi all'età
+
+[R171] Esplorazione libera in stile open world e esperienze in prima persona
+
+[R172] Esplorazione libera in stile open world e visite guidate registrate
+
+[R173] Reazioni ambientali realistiche e contenuti storici dinamici
+
+[R174] Accesso a documentari e gamification educativa
+
+[R175] Ricerca vocale e ricostruzioni 3d dettagliate
+
+[R176] Visite notturne simulate e interazione con strumenti antichi
+
+[R177] non so
+
+[R178] Accesso a documentari
+
+[R179] Tecnologia vocale e supporto per visori diversi
+
+[R180] Chat con esperti e accesso a documentari
+
+[R181] non so
+
+[R182] Modalità cooperativa e interazione con strumenti antichi
+
+[R183] Reazioni ambientali realistiche e possibilità di fare domande
+
+[R184] Visite in tempo reale con amici e visione storica evolutiva
+
+[R185] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R186] non so
+
+[R187] Interazione con strumenti antichi e modalità accessibile
+
+[R188] Contenuti storici dinamici e guide virtuali parlanti
+
+[R189] Accesso a documenti d'archivio e accesso offline
+
+[R190] Modalità realtà mista e visione storica evolutiva
+
+[R191] Riconoscimento facciale per emozioni e gamification educativa
+
+[R192] Visione storica evolutiva e tecnologia vocale
+
+[R193] Esperienza per bambini e supporto per visori diversi
+
+[R194] Contenuti adattivi all'età e visite in tempo reale con amici
+
+[R195] Esperienze narrative e supporto per più lingue
+
+[R196] Esperienze narrative e supporto per più lingue
+
+[R197] Creazione del proprio avatar e visione a raggi x degli oggetti
+
+[R198] non so
+
+[R199] Domande aperte guidate e visite notturne simulate
+
+[R200] non so
+
+[R201] Visite notturne simulate e incontri con avatar storici
+
+[R202] Visione storica evolutiva e realtà aumentata integrata
+
+[R203] Riconoscimento facciale per emozioni e gamification educativa
+
+[R204] non so
+
+[R205] Incontri con avatar storici e tecnologia vocale
+
+[R206] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R207] non so
+
+[R208] Possibilità di fare domande
+
+[R209] Integrazione con la realtà fisica e esperienze tematiche
+
+[R210] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R211] non so
+
+[R212] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R213] Modalità cooperativa e integrazione con la realtà fisica
+
+[R214] Interazione con strumenti antichi e modalità accessibile
+
+[R215] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R216] Visite in tempo reale con amici e supporto per visori diversi
+
+[R217] Reazioni ambientali realistiche e contenuti storici dinamici
+
+[R218] Esperienza per bambini e visione storica evolutiva
+
+[R219] Guide virtuali parlanti e modalità fotografica
+
+[R220] Visione storica evolutiva e accesso a documentari
+
+[R221] Incontri con avatar storici e modalità fotografica
+
+[R222] Esplorazione libera in stile open world e esperienze in prima persona
+
+[R223] Esperienze in prima persona e creazione del proprio avatar
+
+[R224] Scelta del livello di dettaglio e reazioni ambientali realistiche
+
+[R225] Visione storica evolutiva e accesso a documentari
+
+[R226] Modalità realtà mista e visione storica evolutiva
+
+[R227] Esperienze narrative e creazione del proprio avatar
+
+[R228] Accesso offline e modalità realtà mista
+
+[R229] Contenuti storici dinamici e conferenze virtuali
+
+[R230] Visione storica evolutiva e accesso a documentari
+
+[R231] Riproduzione di eventi storici e esperienze tematiche
+
+[R232] Visite notturne simulate e accesso a documenti d'archivio
+
+[R233] non so
+
+[R234] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R235] Accesso a documentari e accesso a documenti d'archivio
+
+[R236] non so
+
+[R237] Accesso a documentari e accesso a documenti d'archivio
+
+[R238] Collezioni temporanee interattive e percorsi personalizzati
+
+[R239] Modalità cooperativa e integrazione con la realtà fisica
+
+[R240] non so
+
+[R241] Ricerca vocale e ricostruzioni in scala reale
+
+[R242] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R243] Integrazione con la realtà fisica e modalità realtà mista
+
+[R244] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R245] Tracce audio storiche e musica ambientale storica
+
+[R246] Tracce audio storiche e tecnologia vocale
+
+[R247] Scenari animati e incontri con avatar storici
+
+[R248] Visite notturne simulate e interazione con strumenti antichi
+
+[R249] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R250] Modalità cooperativa e interazione con strumenti antichi
+
+[R251] non so
+
+[R252] Supporto per più lingue e quiz durante la visita
+
+[R253] Possibilità di fare domande e esperienze in prima persona
+
+[R254] Esperienze multisensoriali e visite notturne simulate
+
+[R255] Reazioni ambientali realistiche e contenuti storici dinamici
+
+[R256] Ricostruzioni 3D dettagliate e sincronizzazione con l'app mobile
+
+[R257] Riproduzione di eventi storici e supporto a haptic feedback
+
+[R258] Ricerca vocale e ricostruzioni in scala reale
+
+[R259] Esperienze narrative e creazione del proprio avatar
+
+[R260] Riproduzione di eventi storici e supporto a haptic feedback
+
+[R261] Esperienza per bambini e supporto per visori diversi
+
+[R262] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R263] Tracce audio storiche e musica ambientale storica
+
+[R264] Ricerca vocale e scelta del livello di dettaglio
+
+[R265] Traduzione simultanea e visite guidate registrate
+
+[R266] Accesso a documentari e accesso a documenti d'archivio
+
+[R267] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R268] Conferenze virtuali e accesso offline
+
+[R269] Ricostruzioni in scala reale e creazione del proprio avatar
+
+[R270] Esperienza per bambini e visione storica evolutiva
+
+[R271] Possibilità di fare domande
+
+[R272] Collezioni temporanee interattive e percorsi personalizzati
+
+[R273] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R274] Gamification educativa e tecnologia vocale
+
+[R275] Reazioni ambientali realistiche e possibilità di fare domande
+
+[R276] Supporto per più lingue e quiz durante la visita
+
+[R277] Riproduzione di eventi storici e esperienze tematiche
+
+[R278] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R279] Accesso a documentari e accesso a documenti d'archivio
+
+[R280] Modalità cooperativa e interazione con strumenti antichi
+
+[R281] Gamification educativa e tecnologia vocale
+
+[R282] Interazione con strumenti antichi e esperienze tematiche
+
+[R283] Tracce audio storiche e visite notturne simulate
+
+[R284] Accesso a documentari e interazione con strumenti antichi
+
+[R285] Supporto per visori diversi e modalità esperto
+
+[R286] Percorsi personalizzati e quiz durante la visita
+
+[R287] Chat con esperti e modalità accessibile
+
+[R288] Tecnologia vocale e supporto per visori diversi
+
+[R289] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R290] Percorsi personalizzati e quiz durante la visita
+
+[R291] Chat con esperti e accesso a documentari
+
+[R292] Supporto per visori diversi e modalità realtà mista
+
+[R293] non so
+
+[R294] Creazione del proprio avatar e visione a raggi x degli oggetti
+
+[R295] non so
+
+[R296] Gamification educativa e reazioni ambientali realistiche
+
+[R297] Modalità cooperativa e interazione con strumenti antichi
+
+[R298] Ricerca vocale e scelta del livello di dettaglio
+
+[R299] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R300] Visione storica evolutiva e realtà aumentata integrata
+
+[R301] non so
+
+[R302] Accesso a documenti d'archivio e visite in tempo reale con amici
+
+[R303] Esperienze multisensoriali e contenuti adattivi all'età
+
+[R304] Visione storica evolutiva e accesso a documentari
+
+[R305] Tecnologia vocale e supporto per visori diversi
+
+[R306] Accesso a documenti d'archivio e accesso offline
+
+[R307] non so
+
+[R308] non so
+
+[R309] Esperienze in prima persona e creazione del proprio avatar
+
+[R310] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R311] Traduzione simultanea e visite guidate registrate
+
+[R312] Accesso a documentari e interazione con strumenti antichi
+
+[R313] Modalità realtà mista e visione storica evolutiva
+
+[R314] Visione storica evolutiva e accesso a documentari
+
+[R315] Visione a raggi X degli oggetti e domande aperte guidate
+
+[R316] Contenuti storici dinamici e guide virtuali parlanti
+
+[R317] Modalità cooperativa e integrazione con la realtà fisica
+
+[R318] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R319] Ricostruzioni in scala reale e creazione del proprio avatar
+
+[R320] Riconoscimento facciale per emozioni e scenari animati
+
+[R321] Tecnologia vocale e supporto a haptic feedback
+
+[R322] Reazioni ambientali realistiche e possibilità di fare domande
+
+[R323] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R324] Contenuti adattivi all'età e esperienze tematiche
+
+[R325] Sincronizzazione con l'app mobile e visione a raggi x degli oggetti
+
+[R326] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R327] Visite notturne simulate e simulazioni storiche in tempo reale
+
+[R328] Scenari animati e incontri con avatar storici
+
+[R329] Tracce audio storiche e supporto a haptic feedback
+
+[R330] Modalità accessibile e accesso a documenti d'archivio
+
+[R331] Esperienze in prima persona e accesso offline
+
+[R332] non so
+
+[R333] Creazione del proprio avatar e visione a raggi x degli oggetti
+
+[R334] Esperienze in prima persona e accesso offline
+
+[R335] Ricerca vocale e ricostruzioni 3d dettagliate
+
+[R336] Esperienza per bambini e esperienze tematiche
+
+[R337] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R338] Esperienze multisensoriali e visite notturne simulate
+
+[R339] Scenari animati e modalità fotografica
+
+[R340] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R341] Possibilità di fare domande e esperienze in prima persona
+
+[R342] Chat con esperti e accesso a documentari
+
+[R343] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R344] Contenuti storici dinamici e guide virtuali parlanti
+
+[R345] Esperienze narrative e visione a raggi x degli oggetti
+
+[R346] Domande aperte guidate e visite notturne simulate
+
+[R347] Scenari animati e incontri con avatar storici
+
+[R348] Ricerca vocale e scelta del livello di dettaglio
+
+[R349] Contenuti storici dinamici e conferenze virtuali
+
+[R350] Accesso a documentari
+
+[R351] Reazioni ambientali realistiche e possibilità di fare domande
+
+[R352] Modalità cooperativa e interazione con strumenti antichi
+
+[R353] Accesso a documentari e interazione con strumenti antichi
+
+[R354] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R355] Chat con esperti e modalità accessibile
+
+[R356] Esplorazione libera in stile open world e possibilità di fare domande
+
+[R357] non so
+
+[R358] non so
+
+[R359] Ricostruzioni 3D dettagliate e sincronizzazione con l'app mobile
+
+[R360] Riproduzione di eventi storici e supporto a haptic feedback
+
+[R361] Tecnologia vocale e contenuti adattivi all'età
+
+[R362] Accesso a documentari e interazione con strumenti antichi
+
+[R363] non so
+
+[R364] non so
+
+[R365] Accesso a documentari e scenari animati
+
+[R366] Accesso offline e modalità realtà mista
+
+[R367] Esperienze tematiche e collezioni temporanee interattive
+
+[R368] Riproduzione di eventi storici e esperienze tematiche
+
+[R369] Modalità cooperativa e integrazione con la realtà fisica
+
+[R370] Possibilità di fare domande
+
+[R371] Integrazione con la realtà fisica e tracce audio storiche
+
+[R372] non so
+
+[R373] Contenuti storici dinamici e conferenze virtuali
+
+[R374] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R375] Ricostruzioni 3D dettagliate e sincronizzazione con l'app mobile
+
+[R376] non so
+
+[R377] Tecnologia vocale e supporto a haptic feedback
+
+[R378] Domande aperte guidate e quiz durante la visita
+
+[R379] Esperienze narrative e possibilità di fare domande
+
+[R380] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R381] Modalità accessibile e accesso a documenti d'archivio
+
+[R382] Scenari animati e incontri con avatar storici
+
+[R383] Reazioni ambientali realistiche e possibilità di fare domande
+
+[R384] non so
+
+[R385] Supporto per visori diversi e modalità realtà mista
+
+[R386] Traduzione simultanea e guide virtuali parlanti
+
+[R387] Scelta del livello di dettaglio e reazioni ambientali realistiche
+
+[R388] Esperienza per bambini e esperienze tematiche
+
+[R389] non so
+
+[R390] non so
+
+[R391] Accesso a documentari
+
+[R392] Modalità cooperativa e integrazione con la realtà fisica
+
+[R393] non so
+
+[R394] Visite notturne simulate e accesso a documenti d'archivio
+
+[R395] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R396] Integrazione con la realtà fisica e modalità realtà mista
+
+[R397] Ricerca vocale e ricostruzioni in scala reale
+
+[R398] Visione a raggi X degli oggetti e domande aperte guidate
+
+[R399] Visite notturne simulate e incontri con avatar storici
+
+[R400] Visite notturne simulate e simulazioni storiche in tempo reale
+
+[R401] Tracce audio storiche e musica ambientale storica
+
+[R402] Visite notturne simulate e simulazioni storiche in tempo reale
+
+[R403] Incontri con avatar storici e tecnologia vocale
+
+[R404] Ricerca vocale e ricostruzioni 3d dettagliate
+
+[R405] Domande aperte guidate e visite notturne simulate
+
+[R406] Supporto per visori diversi e modalità esperto
+
+[R407] non so
+
+[R408] non so
+
+[R409] Riproduzione di eventi storici e esperienze tematiche
+
+[R410] Esplorazione libera in stile open world e esperienze in prima persona
+
+[R411] Accesso offline e modalità realtà mista
+
+[R412] non so
+
+[R413] Esperienze narrative e supporto per più lingue
+
+[R414] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R415] Scenari animati e incontri con avatar storici
+
+[R416] Esperienze in prima persona e creazione del proprio avatar
+
+[R417] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R418] Accesso a documentari e gamification educativa
+
+[R419] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R420] Esperienze narrative e supporto per più lingue
+
+[R421] Incontri con avatar storici e modalità fotografica
+
+[R422] Riproduzione di eventi storici
+
+[R423] Scenari animati e modalità fotografica
+
+[R424] Accesso a documentari e gamification educativa
+
+[R425] Modalità esperto e domande aperte guidate
+
+[R426] Scenari animati e modalità fotografica
+
+[R427] Possibilità di fare domande
+
+[R428] Modalità realtà mista e esperienze narrative
+
+[R429] Accesso a documentari e gamification educativa
+
+[R430] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R431] Contenuti adattivi all'età e visite in tempo reale con amici
+
+[R432] Accesso a documentari e accesso a documenti d'archivio
+
+[R433] Chat con esperti e accesso a documentari
+
+[R434] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R435] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R436] Gamification educativa e riconoscimento facciale per emozioni
+
+[R437] Contenuti storici dinamici e conferenze virtuali
+
+[R438] Gamification educativa e riconoscimento facciale per emozioni
+
+[R439] Esperienza per bambini e esperienze tematiche
+
+[R440] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R441] Accesso a documenti d'archivio e accesso offline
+
+[R442] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R443] non so
+
+[R444] Modalità esperto e tecnologia vocale
+
+[R445] Accesso offline e modalità realtà mista
+
+[R446] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R447] Modalità esperto e tecnologia vocale
+
+[R448] Visite notturne simulate e visite notturne simulate
+
+[R449] Percorsi personalizzati e quiz durante la visita
+
+[R450] Modalità realtà mista e esperienze narrative
+
+[R451] Sincronizzazione con l'app mobile e visione a raggi x degli oggetti
+
+[R452] Esperienze in prima persona e accesso offline
+
+[R453] Domande aperte guidate e quiz durante la visita
+
+[R454] non so
+
+[R455] Modalità realtà mista e visione storica evolutiva
+
+[R456] non so
+
+[R457] Visione storica evolutiva e realtà aumentata integrata
+
+[R458] Chat con esperti e accesso a documentari
+
+[R459] Collezioni temporanee interattive e percorsi personalizzati
+
+[R460] Accesso a documentari e scenari animati
+
+[R461] Domande aperte guidate e visite notturne simulate
+
+[R462] Esperienza per bambini e esperienze tematiche
+
+[R463] Visite notturne simulate e visite notturne simulate
+
+[R464] Visione storica evolutiva e realtà aumentata integrata
+
+[R465] non so
+
+[R466] non so
+
+[R467] Tecnologia vocale e supporto a haptic feedback
+
+[R468] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R469] Gamification educativa e visite notturne simulate
+
+[R470] Percorsi personalizzati e quiz durante la visita
+
+[R471] Incontri con avatar storici e tecnologia vocale
+
+[R472] Contenuti adattivi all'età e visite in tempo reale con amici
+
+[R473] Contenuti storici dinamici e conferenze virtuali
+
+[R474] Contenuti storici dinamici e conferenze virtuali
+
+[R475] Scelta del livello di dettaglio e reazioni ambientali realistiche
+
+[R476] Ricostruzioni in scala reale e creazione del proprio avatar
+
+[R477] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R478] Creazione del proprio avatar e visione a raggi x degli oggetti
+
+[R479] Interazione con strumenti antichi e modalità accessibile
+
+[R480] Ricerca vocale e esperienze multisensoriali
+
+[R481] non so
+
+[R482] Guide virtuali parlanti e modalità fotografica
+
+[R483] Visite in tempo reale con amici e visione storica evolutiva
+
+[R484] non so
+
+[R485] Supporto per visori diversi e modalità realtà mista
+
+[R486] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R487] Tracce audio storiche e tecnologia vocale
+
+[R488] Gamification educativa e visite notturne simulate
+
+[R489] Modalità fotografica e simulazioni storiche in tempo reale
+
+[R490] Ricerca vocale e ricostruzioni in scala reale
+
+[R491] non so
+
+[R492] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R493] Possibilità di fare domande
+
+[R494] Integrazione con la realtà fisica e esperienze tematiche
+
+[R495] Interazioni con altri visitatori e modalità fotografica
+
+[R496] Esperienze tematiche e collezioni temporanee interattive
+
+[R497] Modalità esperto e guide virtuali parlanti
+
+[R498] Visione a raggi X degli oggetti
+
+[R499] Modalità fotografica e simulazioni storiche in tempo reale
+
+[R500] Domande aperte guidate e quiz durante la visita
+
+[R501] Tracce audio storiche e supporto a haptic feedback
+
+[R502] Esperienze narrative e visione a raggi x degli oggetti
+
+[R503] Integrazione con la realtà fisica e esperienze tematiche
+
+[R504] Interazione con strumenti antichi e esperienze tematiche
+
+[R505] non so
+
+[R506] Visite notturne simulate e simulazioni storiche in tempo reale
+
+[R507] non so
+
+[R508] Riconoscimento facciale per emozioni e gamification educativa
+
+[R509] non so
+
+[R510] Guide virtuali parlanti e modalità fotografica
+
+[R511] Interazione con strumenti antichi e esperienze tematiche
+
+[R512] non so
+
+[R513] non so
+
+[R514] Visite notturne simulate e simulazioni storiche in tempo reale
+
+[R515] Interazione con strumenti antichi e modalità accessibile
+
+[R516] Contenuti adattivi all'età e esperienze tematiche
+
+[R517] Scenari animati e esperienze in prima persona
+
+[R518] Ricerca vocale e ricostruzioni 3d dettagliate
+
+[R519] Scenari animati e modalità fotografica
+
+[R520] Integrazione con la realtà fisica e esperienze tematiche
+
+[R521] Esperienze multisensoriali e contenuti adattivi all'età
+
+[R522] Integrazione con la realtà fisica e modalità realtà mista
+
+[R523] Chat con esperti e modalità accessibile
+
+[R524] Collezioni temporanee interattive e percorsi personalizzati
+
+[R525] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R526] Modalità realtà mista e traduzione simultanea
+
+[R527] Gamification educativa e tecnologia vocale
+
+[R528] Ricerca vocale e ricostruzioni 3d dettagliate
+
+[R529] Esperienze in prima persona e creazione del proprio avatar
+
+[R530] Modalità realtà mista e esperienze narrative
+
+[R531] Modalità esperto e tecnologia vocale
+
+[R532] Modalità esperto e guide virtuali parlanti
+
+[R533] Integrazione con la realtà fisica e modalità realtà mista
+
+[R534] Riconoscimento facciale per emozioni e gamification educativa
+
+[R535] Tecnologia vocale e supporto per visori diversi
+
+[R536] Contenuti storici dinamici e possibilità di fare domande
+
+[R537] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R538] non so
+
+[R539] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R540] Accesso a documentari e scenari animati
+
+[R541] Ricostruzioni 3D dettagliate e più interazione con gli oggetti
+
+[R542] Ricerca vocale e scelta del livello di dettaglio
+
+[R543] Esperienze in prima persona e accesso offline
+
+[R544] Modalità cooperativa e interazione con strumenti antichi
+
+[R545] non so
+
+[R546] Esperienza per bambini e visione storica evolutiva
+
+[R547] Modalità fotografica e simulazioni storiche in tempo reale
+
+[R548] Esperienze narrative e visione a raggi x degli oggetti
+
+[R549] Contenuti storici dinamici e possibilità di fare domande
+
+[R550] non so
+
+[R551] Accesso a documentari e scenari animati
+
+[R552] non so
+
+[R553] Accesso a documentari e scenari animati
+
+[R554] Interazione con strumenti antichi e modalità accessibile
+
+[R555] non so
+
+[R556] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R557] Accesso offline e modalità realtà mista
+
+[R558] Interazione con strumenti antichi e modalità accessibile
+
+[R559] non so
+
+[R560] Visite notturne simulate e visite notturne simulate
+
+[R561] Chat con esperti e più interazione con gli oggetti
+
+[R562] Visite notturne simulate e simulazioni storiche in tempo reale
+
+[R563] Traduzione simultanea e tracce audio storiche
+
+[R564] Esperienze multisensoriali e visite notturne simulate
+
+[R565] non so
+
+[R566] Scenari animati e riconoscimento facciale per emozioni
+
+[R567] non so
+
+[R568] non so
+
+[R569] non so
+
+[R570] non so
+
+[R571] Contenuti adattivi all'età e esperienze tematiche
+
+[R572] Chat con esperti e accesso a documentari
+
+[R573] non so
+
+[R574] Possibilità di fare domande
+
+[R575] Incontri con avatar storici e tecnologia vocale
+
+[R576] Visione storica evolutiva e realtà aumentata integrata
+
+[R577] Interazioni con altri visitatori e modalità fotografica
+
+[R578] Tecnologia vocale e contenuti adattivi all'età
+
+[R579] Esplorazione libera in stile open world e possibilità di fare domande
+
+[R580] Ricostruzioni 3D dettagliate e sincronizzazione con l'app mobile
+
+[R581] Modalità esperto e guide virtuali parlanti
+
+[R582] Accesso a documentari e interazione con strumenti antichi
+
+[R583] Scenari animati e riconoscimento facciale per emozioni
+
+[R584] Ricerca vocale e ricostruzioni in scala reale
+
+[R585] Esperienza per bambini e esperienze tematiche
+
+[R586] Integrazione con la realtà fisica e domande aperte guidate
+
+[R587] Riproduzione di eventi storici
+
+[R588] Integrazione con la realtà fisica e tracce audio storiche
+
+[R589] Ricostruzioni 3D dettagliate e sincronizzazione con l'app mobile
+
+[R590] Ricerca vocale e visite notturne simulate
+
+[R591] Ricostruzioni in scala reale e creazione del proprio avatar
+
+[R592] non so
+
+[R593] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R594] non so
+
+[R595] non so
+
+[R596] non so
+
+[R597] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R598] Visite notturne simulate e accesso a documenti d'archivio
+
+[R599] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R600] non so
+
+[R601] Visite notturne simulate e interazione con strumenti antichi
+
+[R602] Tracce audio storiche e supporto a haptic feedback
+
+[R603] Modalità cooperativa e interazione con strumenti antichi
+
+[R604] Incontri con avatar storici e tecnologia vocale
+
+[R605] Scenari animati e incontri con avatar storici
+
+[R606] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R607] Modalità realtà mista e esperienze narrative
+
+[R608] Esplorazione libera in stile open world e supporto per più lingue
+
+[R609] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R610] Riconoscimento facciale per emozioni e scenari animati
+
+[R611] Accesso a documenti d'archivio e accesso offline
+
+[R612] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R613] Accesso offline e interazione con strumenti antichi
+
+[R614] Visite notturne simulate e incontri con avatar storici
+
+[R615] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R616] Esplorazione libera in stile open world e tracce audio storiche
+
+[R617] Interazione con strumenti antichi e modalità accessibile
+
+[R618] non so
+
+[R619] Riproduzione di eventi storici e supporto a haptic feedback
+
+[R620] Supporto per visori diversi e modalità realtà mista
+
+[R621] Esperienze tematiche e collezioni temporanee interattive
+
+[R622] Esperienze in prima persona e creazione del proprio avatar
+
+[R623] Modalità esperto e domande aperte guidate
+
+[R624] Domande aperte guidate e visite notturne simulate
+
+[R625] non so
+
+[R626] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R627] Chat con esperti e accesso a documentari
+
+[R628] Traduzione simultanea e tracce audio storiche
+
+[R629] non so
+
+[R630] Esperienza per bambini e supporto per visori diversi
+
+[R631] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R632] non so
+
+[R633] Domande aperte guidate e visite notturne simulate
+
+[R634] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R635] Chat con esperti e accesso a documentari
+
+[R636] non so
+
+[R637] Esperienza per bambini e esperienze tematiche
+
+[R638] Interazioni con altri visitatori e modalità fotografica
+
+[R639] Modalità accessibile e accesso a documenti d'archivio
+
+[R640] Accesso a documentari e scenari animati
+
+[R641] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R642] Tecnologia vocale e supporto a haptic feedback
+
+[R643] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R644] Riconoscimento facciale per emozioni e gamification educativa
+
+[R645] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R646] non so
+
+[R647] Riconoscimento facciale per emozioni e gamification educativa
+
+[R648] Ricerca vocale e scelta del livello di dettaglio
+
+[R649] Riproduzione di eventi storici
+
+[R650] non so
+
+[R651] Ricerca vocale e visite notturne simulate
+
+[R652] Modalità realtà mista e esperienze narrative
+
+[R653] Modalità accessibile e accesso a documenti d'archivio
+
+[R654] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R655] Visione storica evolutiva e accesso a documentari
+
+[R656] Contenuti adattivi all'età e visite in tempo reale con amici
+
+[R657] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R658] non so
+
+[R659] Accesso offline e interazione con strumenti antichi
+
+[R660] Modalità realtà mista e esperienze narrative
+
+[R661] Domande aperte guidate e visite notturne simulate
+
+[R662] Integrazione con la realtà fisica e esperienze tematiche
+
+[R663] Visite notturne simulate e incontri con avatar storici
+
+[R664] Domande aperte guidate e visite notturne simulate
+
+[R665] Supporto per visori diversi e modalità esperto
+
+[R666] non so
+
+[R667] Ricerca vocale e visite notturne simulate
+
+[R668] Visite notturne simulate e visite notturne simulate
+
+[R669] Esplorazione libera in stile open world e tracce audio storiche
+
+[R670] non so
+
+[R671] non so
+
+[R672] Tracce audio storiche e visite notturne simulate
+
+[R673] Chat con esperti e modalità accessibile
+
+[R674] Esperienze narrative e visione a raggi x degli oggetti
+
+[R675] Contenuti storici dinamici e possibilità di fare domande
+
+[R676] Modalità esperto e domande aperte guidate
+
+[R677] Sincronizzazione con l'app mobile e visione a raggi x degli oggetti
+
+[R678] Visione storica evolutiva e tecnologia vocale
+
+[R679] Contenuti adattivi all'età e esperienze tematiche
+
+[R680] Tracce audio storiche e tecnologia vocale
+
+[R681] Visite in tempo reale con amici e visione storica evolutiva
+
+[R682] non so
+
+[R683] Visione storica evolutiva e ricostruzioni in scala reale
+
+[R684] Esperienze multisensoriali e visite notturne simulate
+
+[R685] Accesso a documenti d'archivio e visite in tempo reale con amici
+
+[R686] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R687] Esperienze narrative e visione a raggi x degli oggetti
+
+[R688] Ricerca vocale e ricostruzioni in scala reale
+
+[R689] Modalità cooperativa e interazione con strumenti antichi
+
+[R690] non so
+
+[R691] Accesso a documenti d'archivio e visite in tempo reale con amici
+
+[R692] Traduzione simultanea e visite guidate registrate
+
+[R693] Modalità cooperativa e interazione con strumenti antichi
+
+[R694] Modalità esperto e guide virtuali parlanti
+
+[R695] Gamification educativa e riconoscimento facciale per emozioni
+
+[R696] Visione storica evolutiva e accesso a documentari
+
+[R697] non so
+
+[R698] Tecnologia vocale e supporto per visori diversi
+
+[R699] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R700] Scenari animati e riconoscimento facciale per emozioni
+
+[R701] Esperienze multisensoriali e visite notturne simulate
+
+[R702] Chat con esperti e accesso a documentari
+
+[R703] Modalità realtà mista e esperienze narrative
+
+[R704] Scenari animati e incontri con avatar storici
+
+[R705] Incontri con avatar storici e tecnologia vocale
+
+[R706] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R707] Collezioni temporanee interattive e modalità esperto
+
+[R708] Traduzione simultanea e guide virtuali parlanti
+
+[R709] Riconoscimento facciale per emozioni e gamification educativa
+
+[R710] Tracce audio storiche e musica ambientale storica
+
+[R711] Supporto per visori diversi e modalità esperto
+
+[R712] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R713] Tecnologia vocale e contenuti adattivi all'età
+
+[R714] Modalità esperto e guide virtuali parlanti
+
+[R715] Creazione del proprio avatar e visione a raggi x degli oggetti
+
+[R716] Visite notturne simulate e accesso a documenti d'archivio
+
+[R717] Visite notturne simulate e interazione con strumenti antichi
+
+[R718] Accesso a documentari e scenari animati
+
+[R719] Ricerca vocale e ricostruzioni in scala reale
+
+[R720] Visione storica evolutiva e tecnologia vocale
+
+[R721] Accesso a documentari e gamification educativa
+
+[R722] Visite in tempo reale con amici e supporto per visori diversi
+
+[R723] Modalità esperto e domande aperte guidate
+
+[R724] Accesso a documentari e scenari animati
+
+[R725] non so
+
+[R726] Scenari animati e riconoscimento facciale per emozioni
+
+[R727] Integrazione con la realtà fisica e tracce audio storiche
+
+[R728] Integrazione con la realtà fisica e domande aperte guidate
+
+[R729] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R730] Visite notturne simulate e incontri con avatar storici
+
+[R731] Supporto per visori diversi e modalità realtà mista
+
+[R732] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R733] Ricostruzioni in scala reale e creazione del proprio avatar
+
+[R734] Domande aperte guidate e quiz durante la visita
+
+[R735] Possibilità di fare domande
+
+[R736] Domande aperte guidate e quiz durante la visita
+
+[R737] Accesso offline e modalità realtà mista
+
+[R738] Ricerca vocale e ricostruzioni in scala reale
+
+[R739] Ricerca vocale e esperienze multisensoriali
+
+[R740] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R741] Tracce audio storiche e musica ambientale storica
+
+[R742] Ricerca vocale e ricostruzioni 3d dettagliate
+
+[R743] Visite in tempo reale con amici e visione storica evolutiva
+
+[R744] non so
+
+[R745] non so
+
+[R746] non so
+
+[R747] non so
+
+[R748] Gamification educativa e visite notturne simulate
+
+[R749] non so
+
+[R750] non so
+
+[R751] Accesso a documentari e scenari animati
+
+[R752] Visite in tempo reale con amici e supporto per visori diversi
+
+[R753] Ricerca vocale e ricostruzioni 3d dettagliate
+
+[R754] Esperienza per bambini e supporto per visori diversi
+
+[R755] Modalità realtà mista e visione storica evolutiva
+
+[R756] Sincronizzazione con l'app mobile e visione a raggi x degli oggetti
+
+[R757] Visite in tempo reale con amici e visione storica evolutiva
+
+[R758] Traduzione simultanea e guide virtuali parlanti
+
+[R759] non so
+
+[R760] Gamification educativa e visite notturne simulate
+
+[R761] Accesso offline e modalità realtà mista
+
+[R762] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R763] Riproduzione di eventi storici e esperienze tematiche
+
+[R764] Supporto per più lingue e quiz durante la visita
+
+[R765] Scenari animati e riconoscimento facciale per emozioni
+
+[R766] Contenuti adattivi all'età e visite in tempo reale con amici
+
+[R767] Scenari animati e modalità fotografica
+
+[R768] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R769] non so
+
+[R770] Domande aperte guidate e quiz durante la visita
+
+[R771] Esperienze tematiche e collezioni temporanee interattive
+
+[R772] Esplorazione libera in stile open world e visite guidate registrate
+
+[R773] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R774] Scenari animati e incontri con avatar storici
+
+[R775] Accesso a documentari e gamification educativa
+
+[R776] non so
+
+[R777] non so
+
+[R778] Modalità fotografica e simulazioni storiche in tempo reale
+
+[R779] Modalità realtà mista e visione storica evolutiva
+
+[R780] Scenari animati e incontri con avatar storici
+
+[R781] Visite notturne simulate e visite notturne simulate
+
+[R782] Collezioni temporanee interattive e percorsi personalizzati
+
+[R783] Gamification educativa e riconoscimento facciale per emozioni
+
+[R784] Interazione con strumenti antichi e esperienze tematiche
+
+[R785] Visite notturne simulate e simulazioni storiche in tempo reale
+
+[R786] Modalità esperto e guide virtuali parlanti
+
+[R787] Esplorazione libera in stile open world e possibilità di fare domande
+
+[R788] Contenuti storici dinamici e guide virtuali parlanti
+
+[R789] Ricerca vocale e scelta del livello di dettaglio
+
+[R790] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R791] Tracce audio storiche e musica ambientale storica
+
+[R792] Chat con esperti e modalità accessibile
+
+[R793] Scenari animati e modalità fotografica
+
+[R794] Modalità accessibile e accesso a documenti d'archivio
+
+[R795] Modalità cooperativa e integrazione con la realtà fisica
+
+[R796] Riproduzione di eventi storici e esperienze tematiche
+
+[R797] Esplorazione libera in stile open world e esperienze in prima persona
+
+[R798] Visite in tempo reale con amici e visione storica evolutiva
+
+[R799] Visite in tempo reale con amici e supporto per visori diversi
+
+[R800] non so
+
+[R801] Esperienze tematiche e collezioni temporanee interattive
+
+[R802] Gamification educativa e riconoscimento facciale per emozioni
+
+[R803] Visione storica evolutiva e incontri con avatar storici
+
+[R804] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R805] non so
+
+[R806] Tracce audio storiche e visite notturne simulate
+
+[R807] Visite in tempo reale con amici e supporto per visori diversi
+
+[R808] Domande aperte guidate e quiz durante la visita
+
+[R809] Esperienze narrative e visione a raggi x degli oggetti
+
+[R810] Visite in tempo reale con amici e supporto per visori diversi
+
+[R811] Integrazione con la realtà fisica e modalità realtà mista
+
+[R812] Tracce audio storiche e tecnologia vocale
+
+[R813] Tecnologia vocale e contenuti adattivi all'età
+
+[R814] non so
+
+[R815] Tracce audio storiche e tecnologia vocale
+
+[R816] Integrazione con la realtà fisica e tracce audio storiche
+
+[R817] Reazioni ambientali realistiche e possibilità di fare domande
+
+[R818] Riconoscimento facciale per emozioni e scenari animati
+
+[R819] non so
+
+[R820] Percorsi personalizzati e quiz durante la visita
+
+[R821] Chat con esperti e modalità accessibile
+
+[R822] Riproduzione di eventi storici e supporto a haptic feedback
+
+[R823] non so
+
+[R824] Ricostruzioni 3D dettagliate e più interazione con gli oggetti
+
+[R825] Visite in tempo reale con amici e supporto per visori diversi
+
+[R826] Accesso a documentari
+
+[R827] non so
+
+[R828] Accesso offline e interazione con strumenti antichi
+
+[R829] Contenuti adattivi all'età e visite in tempo reale con amici
+
+[R830] Esplorazione libera in stile open world e tracce audio storiche
+
+[R831] Domande aperte guidate e visite notturne simulate
+
+[R832] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R833] Modalità esperto e domande aperte guidate
+
+[R834] Modalità esperto e tecnologia vocale
+
+[R835] Creazione del proprio avatar e visione a raggi x degli oggetti
+
+[R836] Tracce audio storiche e visite notturne simulate
+
+[R837] Esperienze in prima persona e accesso offline
+
+[R838] Visione storica evolutiva e accesso a documentari
+
+[R839] Sincronizzazione con l'app mobile e visione a raggi x degli oggetti
+
+[R840] Accesso a documentari e accesso a documenti d'archivio
+
+[R841] Modalità esperto e domande aperte guidate
+
+[R842] Visite notturne simulate e accesso a documenti d'archivio
+
+[R843] Contenuti storici dinamici e guide virtuali parlanti
+
+[R844] Tracce audio storiche e tecnologia vocale
+
+[R845] Tracce audio storiche e supporto a haptic feedback
+
+[R846] Accesso a documentari e gamification educativa
+
+[R847] Ricerca vocale e visite notturne simulate
+
+[R848] Esplorazione libera in stile open world e tracce audio storiche
+
+[R849] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R850] Integrazione con la realtà fisica e esperienze tematiche
+
+[R851] Chat con esperti e modalità accessibile
+
+[R852] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R853] non so
+
+[R854] non so
+
+[R855] Esperienze narrative e creazione del proprio avatar
+
+[R856] Interazione con strumenti antichi e modalità accessibile
+
+[R857] Incontri con avatar storici e tecnologia vocale
+
+[R858] Accesso a documenti d'archivio e visite in tempo reale con amici
+
+[R859] Gamification educativa e tecnologia vocale
+
+[R860] Tracce audio storiche e supporto a haptic feedback
+
+[R861] Ricostruzioni in scala reale e creazione del proprio avatar
+
+[R862] non so
+
+[R863] non so
+
+[R864] Modalità esperto e tecnologia vocale
+
+[R865] non so
+
+[R866] Tecnologia vocale e supporto a haptic feedback
+
+[R867] Riconoscimento facciale per emozioni e scenari animati
+
+[R868] non so
+
+[R869] Tecnologia vocale e supporto per visori diversi
+
+[R870] Reazioni ambientali realistiche e possibilità di fare domande
+
+[R871] Accesso offline e interazione con strumenti antichi
+
+[R872] Esperienza per bambini e visione storica evolutiva
+
+[R873] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R874] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R875] Accesso a documentari e scenari animati
+
+[R876] Percorsi personalizzati e quiz durante la visita
+
+[R877] Supporto per visori diversi e modalità esperto
+
+[R878] non so
+
+[R879] Ricostruzioni in scala reale e creazione del proprio avatar
+
+[R880] Visione storica evolutiva e realtà aumentata integrata
+
+[R881] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R882] non so
+
+[R883] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R884] Contenuti storici dinamici e conferenze virtuali
+
+[R885] Modalità realtà mista e esperienze narrative
+
+[R886] non so
+
+[R887] Tecnologia vocale e supporto a haptic feedback
+
+[R888] non so
+
+[R889] Incontri con avatar storici e modalità fotografica
+
+[R890] Collezioni temporanee interattive e percorsi personalizzati
+
+[R891] Contenuti adattivi all'età e esperienze tematiche
+
+[R892] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R893] non so
+
+[R894] Interazione con strumenti antichi e modalità accessibile
+
+[R895] Sincronizzazione con l'app mobile e visione a raggi x degli oggetti
+
+[R896] Incontri con avatar storici e tecnologia vocale
+
+[R897] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R898] Sincronizzazione con l'app mobile e visione a raggi x degli oggetti
+
+[R899] Ricerca vocale e ricostruzioni in scala reale
+
+[R900] Esperienze narrative e possibilità di fare domande
+
+[R901] non so
+
+[R902] Riconoscimento facciale per emozioni e scenari animati
+
+[R903] Scelta del livello di dettaglio e reazioni ambientali realistiche
+
+[R904] Esperienza per bambini e esperienze tematiche
+
+[R905] Tecnologia vocale e contenuti adattivi all'età
+
+[R906] non so
+
+[R907] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R908] non so
+
+[R909] Esplorazione libera in stile open world e visite guidate registrate
+
+[R910] Chat con esperti e più interazione con gli oggetti
+
+[R911] Tracce audio storiche e supporto a haptic feedback
+
+[R912] Possibilità di fare domande e esperienze in prima persona
+
+[R913] non so
+
+[R914] Ricerca vocale e visite notturne simulate
+
+[R915] Domande aperte guidate e visite notturne simulate
+
+[R916] Riconoscimento facciale per emozioni e gamification educativa
+
+[R917] Esperienze narrative e possibilità di fare domande
+
+[R918] Visite notturne simulate e incontri con avatar storici
+
+[R919] non so
+
+[R920] Tracce audio storiche e visite notturne simulate
+
+[R921] non so
+
+[R922] Contenuti storici dinamici e possibilità di fare domande
+
+[R923] Riconoscimento facciale per emozioni e gamification educativa
+
+[R924] Incontri con avatar storici e tecnologia vocale
+
+[R925] Tecnologia vocale e contenuti adattivi all'età
+
+[R926] Accesso a documentari e scenari animati
+
+[R927] Tecnologia vocale e contenuti adattivi all'età
+
+[R928] Visite notturne simulate e interazione con strumenti antichi
+
+[R929] Esperienza per bambini e supporto per visori diversi
+
+[R930] Tecnologia vocale e contenuti adattivi all'età
+
+[R931] Accesso a documentari e interazione con strumenti antichi
+
+[R932] Guide virtuali parlanti e modalità fotografica
+
+[R933] Esperienze in prima persona e creazione del proprio avatar
+
+[R934] Esperienza per bambini e visione storica evolutiva
+
+[R935] Visite notturne simulate e simulazioni storiche in tempo reale
+
+[R936] Sincronizzazione con l'app mobile e visione a raggi x degli oggetti
+
+[R937] Modalità cooperativa e interazione con strumenti antichi
+
+[R938] Esperienze in prima persona e creazione del proprio avatar
+
+[R939] Esplorazione libera in stile open world e tracce audio storiche
+
+[R940] Visite notturne simulate e accesso a documenti d'archivio
+
+[R941] Visite in tempo reale con amici e supporto per visori diversi
+
+[R942] Ricostruzioni in scala reale e creazione del proprio avatar
+
+[R943] Accesso a documentari e scenari animati
+
+[R944] Interazione con strumenti antichi e esperienze tematiche
+
+[R945] Integrazione con la realtà fisica e esperienze tematiche
+
+[R946] Riproduzione di eventi storici
+
+[R947] Supporto per più lingue e quiz durante la visita
+
+[R948] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R949] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R950] Esperienze in prima persona e creazione del proprio avatar
+
+[R951] Domande aperte guidate e quiz durante la visita
+
+[R952] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R953] non so
+
+[R954] Interazione con strumenti antichi e modalità accessibile
+
+[R955] Creazione del proprio avatar e visione a raggi x degli oggetti
+
+[R956] non so
+
+[R957] Gamification educativa e riconoscimento facciale per emozioni
+
+[R958] Incontri con avatar storici e modalità fotografica
+
+[R959] Supporto per visori diversi e modalità realtà mista
+
+[R960] Ricostruzioni 3D dettagliate e sincronizzazione con l'app mobile
+
+[R961] Interazione con strumenti antichi e modalità accessibile
+
+[R962] non so
+
+[R963] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R964] Visione storica evolutiva e accesso a documentari
+
+[R965] Modalità esperto e tecnologia vocale
+
+[R966] Ricerca vocale e ricostruzioni in scala reale
+
+[R967] Esperienze narrative e visione a raggi x degli oggetti
+
+[R968] Accesso a documentari e accesso a documenti d'archivio
+
+[R969] non so
+
+[R970] Esperienza per bambini e supporto per visori diversi
+
+[R971] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R972] Esperienza per bambini e supporto per visori diversi
+
+[R973] Visite notturne simulate e incontri con avatar storici
+
+[R974] non so
+
+[R975] Ricostruzioni in scala reale e creazione del proprio avatar
+
+[R976] Esplorazione libera in stile open world e visite guidate registrate
+
+[R977] Modalità esperto e domande aperte guidate
+
+[R978] Supporto per visori diversi e modalità realtà mista
+
+[R979] Domande aperte guidate e visite notturne simulate
+
+[R980] Percorsi personalizzati e scelta del livello di dettaglio
+
+[R981] Collezioni temporanee interattive e percorsi personalizzati
+
+[R982] Visite in tempo reale con amici e visione storica evolutiva
+
+[R983] Scelta del livello di dettaglio e reazioni ambientali realistiche
+
+[R984] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R985] Esperienza per bambini e esperienze tematiche
+
+[R986] Esplorazione libera in stile open world e esperienze in prima persona
+
+[R987] Gamification educativa e visite notturne simulate
+
+[R988] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R989] non so
+
+[R990] Guide virtuali parlanti e modalità fotografica
+
+[R991] Visite in tempo reale con amici e supporto per visori diversi
+
+[R992] non so
+
+[R993] Esperienze multisensoriali e contenuti adattivi all'età
+
+[R994] Accesso a documenti d'archivio e guide virtuali parlanti
+
+[R995] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R996] Modalità fotografica e simulazioni storiche in tempo reale
+
+[R997] Contenuti adattivi all'età e esperienze tematiche
+
+[R998] Gamification educativa e tecnologia vocale
+
+[R999] Accesso a documenti d'archivio e accesso offline
+
+[R1000] Accesso a documentari
+
+[R1001] Accesso offline e modalità realtà mista
+
+[R1002] non so
+
+[R1003] Esperienze narrative e supporto per più lingue
+
+[R1004] Scelta del livello di dettaglio e reazioni ambientali realistiche
+
+[R1005] non so
+
+[R1006] Accesso a documentari
+
+[R1007] Visite notturne simulate e visite notturne simulate
+
+[R1008] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R1009] Scenari animati e esperienze in prima persona
+
+[R1010] Conferenze virtuali e accesso offline
+
+[R1011] non so
+
+[R1012] Integrazione con la realtà fisica e esperienze tematiche
+
+[R1013] Tracce audio storiche e visite notturne simulate
+
+[R1014] Supporto per più lingue e quiz durante la visita
+
+[R1015] Chat con esperti e modalità accessibile
+
+[R1016] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R1017] Scenari animati e riconoscimento facciale per emozioni
+
+[R1018] Gamification educativa e visite notturne simulate
+
+[R1019] non so
+
+[R1020] Visione a raggi X degli oggetti
+
+[R1021] Interazione con strumenti antichi e modalità accessibile
+
+[R1022] Modalità realtà mista e traduzione simultanea
+
+[R1023] Contenuti storici dinamici e conferenze virtuali
+
+[R1024] Scenari animati e incontri con avatar storici
+
+[R1025] Reazioni ambientali realistiche e possibilità di fare domande
+
+[R1026] Guide virtuali parlanti e modalità fotografica
+
+[R1027] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R1028] Visite notturne simulate e incontri con avatar storici
+
+[R1029] Accesso a documentari e scenari animati
+
+[R1030] Scelta del livello di dettaglio e esperienze in prima persona
+
+[R1031] Esperienze multisensoriali e contenuti adattivi all'età
+
+[R1032] Contenuti adattivi all'età e visite in tempo reale con amici
+
+[R1033] non so
+
+[R1034] Gamification educativa e visite notturne simulate
+
+[R1035] non so
+
+[R1036] Riproduzione di eventi storici
+
+[R1037] Contenuti storici dinamici e possibilità di fare domande
+
+[R1038] non so
+
+[R1039] Scenari animati e esperienze in prima persona
+
+[R1040] Tecnologia vocale e supporto a haptic feedback
+
+[R1041] non so
+
+[R1042] Chat con esperti e modalità accessibile
+
+[R1043] Traduzione simultanea e visite guidate registrate
+
+[R1044] Accesso a documenti d'archivio e accesso offline
+
+[R1045] Modalità realtà mista e traduzione simultanea
+
+[R1046] Visione a raggi X degli oggetti
+
+[R1047] Collezioni temporanee interattive e modalità esperto
+
+[R1048] Ricostruzioni 3D dettagliate e più interazione con gli oggetti
+
+[R1049] Sincronizzazione con l'app mobile e visione a raggi x degli oggetti
+
+[R1050] Modalità cooperativa e interazione con strumenti antichi
+
+[R1051] Supporto per visori diversi e modalità realtà mista
+
+[R1052] Accesso a documentari e scenari animati
+
+[R1053] Chat con esperti e più interazione con gli oggetti
+
+[R1054] Accesso a documenti d'archivio e visite in tempo reale con amici
+
+[R1055] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R1056] Tracce audio storiche e supporto a haptic feedback
+
+[R1057] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R1058] Modalità accessibile e accesso a documenti d'archivio
+
+[R1059] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R1060] Traduzione simultanea e guide virtuali parlanti
+
+[R1061] Traduzione simultanea e guide virtuali parlanti
+
+[R1062] Accesso a documenti d'archivio e visite in tempo reale con amici
+
+[R1063] Esperienze in prima persona e accesso offline
+
+[R1064] non so
+
+[R1065] Interazione con strumenti antichi e esperienze tematiche
+
+[R1066] Interazioni con altri visitatori e modalità fotografica
+
+[R1067] non so
+
+[R1068] Scelta del livello di dettaglio e visite in tempo reale con amici
+
+[R1069] non so
+
+[R1070] Esperienze multisensoriali e contenuti adattivi all'età
+
+[R1071] Visite notturne simulate e incontri con avatar storici
+
+[R1072] Visione a raggi X degli oggetti
+
+[R1073] Tecnologia vocale e supporto per visori diversi
+
+[R1074] Modalità accessibile e accesso a documenti d'archivio
+
+[R1075] Modalità cooperativa e interazione con strumenti antichi
+
+[R1076] Accesso a documenti d'archivio e visite in tempo reale con amici
+
+[R1077] Interazione con strumenti antichi e modalità accessibile
+
+[R1078] Accesso a documentari e scenari animati
+
+[R1079] Modalità esperto e guide virtuali parlanti
+
+[R1080] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R1081] Modalità fotografica e simulazioni storiche in tempo reale
+

@@ -1,0 +1,2890 @@
+RISPOSTE APERTE — VR — FUNZIONALITÀ DESIDERATE
+Domanda: 12. Quali ulteriori funzionalità vorresti vedere in una futura versione del museo VR?
+============================================================
+
+[R1] Visite in tempo reale con amici e visione storica evolutiva
+
+[R2] Guide virtuali parlanti e modalità fotografica
+
+[R3] Gamification educativa e tecnologia vocale
+
+[R4] Esperienza per bambini e visione storica evolutiva
+
+[R5] Esplorazione libera in stile open world e supporto per più lingue
+
+[R6] Interazioni con altri visitatori e modalità fotografica
+
+[R7] Tracce audio storiche e musica ambientale storica
+
+[R8] Tecnologia vocale e supporto per visori diversi
+
+[R9] Tecnologia vocale e supporto per visori diversi
+
+[R10] Gamification educativa e tecnologia vocale
+
+[R11] Esperienze narrative e visione a raggi x degli oggetti
+
+[R12] Chat con esperti e più interazione con gli oggetti
+
+[R13] Scenari animati e riconoscimento facciale per emozioni
+
+[R14] Esperienze in prima persona e accesso offline
+
+[R15] Esperienze in prima persona e accesso offline
+
+[R16] Visite notturne simulate e interazione con strumenti antichi
+
+[R17] Chat con esperti e accesso a documentari
+
+[R18] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R19] Esperienze narrative e visione a raggi x degli oggetti
+
+[R20] Interazioni con altri visitatori e modalità fotografica
+
+[R21] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R22] Ricerca vocale e visite notturne simulate
+
+[R23] Accesso a documentari
+
+[R24] Gamification educativa e tecnologia vocale
+
+[R25] Chat con esperti e accesso a documentari
+
+[R26] Accesso a documentari
+
+[R27] Tecnologia vocale e supporto a haptic feedback
+
+[R28] Tecnologia vocale e supporto per visori diversi
+
+[R29] Traduzione simultanea e tracce audio storiche
+
+[R30] Tecnologia vocale e supporto a haptic feedback
+
+[R31] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R32] Visione storica evolutiva e accesso a documentari
+
+[R33] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R34] Esperienze narrative e visione a raggi x degli oggetti
+
+[R35] Tecnologia vocale e contenuti adattivi all'età
+
+[R36] Visite notturne simulate e interazione con strumenti antichi
+
+[R37] Interazione con strumenti antichi e esperienze tematiche
+
+[R38] Collezioni temporanee interattive e percorsi personalizzati
+
+[R39] Integrazione con la realtà fisica e esperienze tematiche
+
+[R40] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R41] Accesso a documenti d'archivio e accesso offline
+
+[R42] Esperienze narrative e creazione del proprio avatar
+
+[R43] Tracce audio storiche e musica ambientale storica
+
+[R44] Visione storica evolutiva e accesso a documentari
+
+[R45] Chat con esperti e accesso a documentari
+
+[R46] Scenari animati e modalità fotografica
+
+[R47] Tracce audio storiche e visite notturne simulate
+
+[R48] Accesso a documentari
+
+[R49] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R50] Collezioni temporanee interattive e percorsi personalizzati
+
+[R51] Visite notturne simulate e accesso a documenti d'archivio
+
+[R52] Traduzione simultanea e tracce audio storiche
+
+[R53] Esperienze narrative e creazione del proprio avatar
+
+[R54] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R55] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R56] Accesso a documentari e gamification educativa
+
+[R57] Tecnologia vocale e supporto per visori diversi
+
+[R58] Accesso offline e modalità realtà mista
+
+[R59] Visione storica evolutiva e accesso a documentari
+
+[R60] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R61] Scenari animati e esperienze in prima persona
+
+[R62] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R63] Visite in tempo reale con amici e visione storica evolutiva
+
+[R64] Visite notturne simulate e interazione con strumenti antichi
+
+[R65] Esperienze narrative e visione a raggi x degli oggetti
+
+[R66] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R67] Esperienze narrative e creazione del proprio avatar
+
+[R68] Scenari animati e riconoscimento facciale per emozioni
+
+[R69] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R70] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R71] Visite notturne simulate e interazione con strumenti antichi
+
+[R72] Contenuti adattivi all'età e esperienze tematiche
+
+[R73] Accesso a documentari e gamification educativa
+
+[R74] Accesso offline e interazione con strumenti antichi
+
+[R75] Accesso a documentari
+
+[R76] Contenuti adattivi all'età e esperienze tematiche
+
+[R77] Integrazione con la realtà fisica e esperienze tematiche
+
+[R78] Collezioni temporanee interattive e percorsi personalizzati
+
+[R79] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R80] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R81] Accesso a documentari e gamification educativa
+
+[R82] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R83] Tracce audio storiche e visite notturne simulate
+
+[R84] Esperienze multisensoriali e visite notturne simulate
+
+[R85] Modalità realtà mista e esperienze narrative
+
+[R86] Accesso a documentari
+
+[R87] Tecnologia vocale e supporto a haptic feedback
+
+[R88] Chat con esperti e più interazione con gli oggetti
+
+[R89] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R90] Esperienza per bambini e visione storica evolutiva
+
+[R91] Accesso a documentari
+
+[R92] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R93] Traduzione simultanea e tracce audio storiche
+
+[R94] Guide virtuali parlanti e modalità fotografica
+
+[R95] Gamification educativa e tecnologia vocale
+
+[R96] Visite notturne simulate e accesso a documenti d'archivio
+
+[R97] Chat con esperti e accesso a documentari
+
+[R98] Visione storica evolutiva e realtà aumentata integrata
+
+[R99] Accesso offline e modalità realtà mista
+
+[R100] Traduzione simultanea e tracce audio storiche
+
+[R101] Accesso offline e interazione con strumenti antichi
+
+[R102] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R103] Esplorazione libera in stile open world e supporto per più lingue
+
+[R104] Accesso offline e interazione con strumenti antichi
+
+[R105] Traduzione simultanea e tracce audio storiche
+
+[R106] Esperienze multisensoriali e visite notturne simulate
+
+[R107] Modalità esperto e guide virtuali parlanti
+
+[R108] Tecnologia vocale e contenuti adattivi all'età
+
+[R109] Interazioni con altri visitatori e modalità fotografica
+
+[R110] Interazione con strumenti antichi e esperienze tematiche
+
+[R111] Chat con esperti e accesso a documentari
+
+[R112] Esperienze narrative e visione a raggi x degli oggetti
+
+[R113] Scenari animati e riconoscimento facciale per emozioni
+
+[R114] Visione storica evolutiva e realtà aumentata integrata
+
+[R115] Scenari animati e esperienze in prima persona
+
+[R116] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R117] Accesso offline e modalità realtà mista
+
+[R118] Guide virtuali parlanti e modalità fotografica
+
+[R119] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R120] Chat con esperti e accesso a documentari
+
+[R121] Visite notturne simulate e accesso a documenti d'archivio
+
+[R122] Modalità cooperativa e interazione con strumenti antichi
+
+[R123] Visione storica evolutiva e accesso a documentari
+
+[R124] Interazione con strumenti antichi e esperienze tematiche
+
+[R125] Esperienze narrative e visione a raggi x degli oggetti
+
+[R126] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R127] Gamification educativa e tecnologia vocale
+
+[R128] Scenari animati e modalità fotografica
+
+[R129] Traduzione simultanea e tracce audio storiche
+
+[R130] Chat con esperti e accesso a documentari
+
+[R131] Modalità cooperativa e interazione con strumenti antichi
+
+[R132] Esperienza per bambini e visione storica evolutiva
+
+[R133] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R134] Esperienza per bambini e visione storica evolutiva
+
+[R135] Gamification educativa e tecnologia vocale
+
+[R136] Guide virtuali parlanti e modalità fotografica
+
+[R137] Modalità realtà mista e esperienze narrative
+
+[R138] Tracce audio storiche e visite notturne simulate
+
+[R139] Integrazione con la realtà fisica e domande aperte guidate
+
+[R140] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R141] Visione storica evolutiva e realtà aumentata integrata
+
+[R142] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R143] Visione storica evolutiva e accesso a documentari
+
+[R144] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R145] Integrazione con la realtà fisica e esperienze tematiche
+
+[R146] Accesso a documenti d'archivio e accesso offline
+
+[R147] Guide virtuali parlanti e modalità fotografica
+
+[R148] Contenuti adattivi all'età e esperienze tematiche
+
+[R149] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R150] Esperienze in prima persona e accesso offline
+
+[R151] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R152] Integrazione con la realtà fisica e esperienze tematiche
+
+[R153] Modalità esperto e guide virtuali parlanti
+
+[R154] Esplorazione libera in stile open world e supporto per più lingue
+
+[R155] Esperienze narrative e creazione del proprio avatar
+
+[R156] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R157] Interazioni con altri visitatori e modalità fotografica
+
+[R158] Visione storica evolutiva e realtà aumentata integrata
+
+[R159] Gamification educativa e tecnologia vocale
+
+[R160] Contenuti storici dinamici e possibilità di fare domande
+
+[R161] Scenari animati e riconoscimento facciale per emozioni
+
+[R162] Esperienza per bambini e visione storica evolutiva
+
+[R163] Interazioni con altri visitatori e modalità fotografica
+
+[R164] Esplorazione libera in stile open world e supporto per più lingue
+
+[R165] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R166] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R167] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R168] Esperienze multisensoriali e visite notturne simulate
+
+[R169] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R170] Accesso a documentari e gamification educativa
+
+[R171] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R172] Visite notturne simulate e accesso a documenti d'archivio
+
+[R173] Tecnologia vocale e supporto a haptic feedback
+
+[R174] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R175] Visite notturne simulate e interazione con strumenti antichi
+
+[R176] Accesso a documenti d'archivio e accesso offline
+
+[R177] Modalità cooperativa e interazione con strumenti antichi
+
+[R178] Visite notturne simulate e interazione con strumenti antichi
+
+[R179] Scenari animati e modalità fotografica
+
+[R180] Collezioni temporanee interattive e percorsi personalizzati
+
+[R181] Guide virtuali parlanti e modalità fotografica
+
+[R182] Visione storica evolutiva e realtà aumentata integrata
+
+[R183] Esperienze narrative e creazione del proprio avatar
+
+[R184] Scenari animati e riconoscimento facciale per emozioni
+
+[R185] Ricerca vocale e visite notturne simulate
+
+[R186] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R187] Chat con esperti e più interazione con gli oggetti
+
+[R188] Scenari animati e riconoscimento facciale per emozioni
+
+[R189] Integrazione con la realtà fisica e esperienze tematiche
+
+[R190] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R191] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R192] Esperienza per bambini e visione storica evolutiva
+
+[R193] Contenuti adattivi all'età e esperienze tematiche
+
+[R194] Interazione con strumenti antichi e esperienze tematiche
+
+[R195] Modalità realtà mista e esperienze narrative
+
+[R196] Esperienza per bambini e visione storica evolutiva
+
+[R197] Interazione con strumenti antichi e esperienze tematiche
+
+[R198] Accesso offline e interazione con strumenti antichi
+
+[R199] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R200] Interazione con strumenti antichi e esperienze tematiche
+
+[R201] Interazioni con altri visitatori e modalità fotografica
+
+[R202] Integrazione con la realtà fisica e domande aperte guidate
+
+[R203] Esperienze narrative e creazione del proprio avatar
+
+[R204] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R205] Modalità esperto e guide virtuali parlanti
+
+[R206] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R207] Accesso offline e interazione con strumenti antichi
+
+[R208] Ricerca vocale e visite notturne simulate
+
+[R209] Ricerca vocale e visite notturne simulate
+
+[R210] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R211] Contenuti adattivi all'età e esperienze tematiche
+
+[R212] Scenari animati e esperienze in prima persona
+
+[R213] Visione storica evolutiva e realtà aumentata integrata
+
+[R214] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R215] Chat con esperti e più interazione con gli oggetti
+
+[R216] Tecnologia vocale e contenuti adattivi all'età
+
+[R217] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R218] Esperienze in prima persona e accesso offline
+
+[R219] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R220] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R221] Esplorazione libera in stile open world e supporto per più lingue
+
+[R222] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R223] Accesso a documentari
+
+[R224] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R225] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R226] Contenuti storici dinamici e possibilità di fare domande
+
+[R227] Scenari animati e modalità fotografica
+
+[R228] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R229] Interazioni con altri visitatori e modalità fotografica
+
+[R230] Integrazione con la realtà fisica e esperienze tematiche
+
+[R231] Visite notturne simulate e accesso a documenti d'archivio
+
+[R232] Esperienze multisensoriali e visite notturne simulate
+
+[R233] Integrazione con la realtà fisica e domande aperte guidate
+
+[R234] Guide virtuali parlanti e modalità fotografica
+
+[R235] Modalità cooperativa e interazione con strumenti antichi
+
+[R236] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R237] Tracce audio storiche e visite notturne simulate
+
+[R238] Modalità cooperativa e interazione con strumenti antichi
+
+[R239] Esplorazione libera in stile open world e supporto per più lingue
+
+[R240] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R241] Tecnologia vocale e contenuti adattivi all'età
+
+[R242] Visione storica evolutiva e accesso a documentari
+
+[R243] Accesso a documenti d'archivio e accesso offline
+
+[R244] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R245] Accesso offline e modalità realtà mista
+
+[R246] Modalità cooperativa e interazione con strumenti antichi
+
+[R247] Modalità esperto e guide virtuali parlanti
+
+[R248] Visite notturne simulate e interazione con strumenti antichi
+
+[R249] Contenuti storici dinamici e possibilità di fare domande
+
+[R250] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R251] Modalità realtà mista e esperienze narrative
+
+[R252] Visite in tempo reale con amici e visione storica evolutiva
+
+[R253] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R254] Traduzione simultanea e tracce audio storiche
+
+[R255] Interazione con strumenti antichi e esperienze tematiche
+
+[R256] Visite in tempo reale con amici e visione storica evolutiva
+
+[R257] Accesso a documentari e gamification educativa
+
+[R258] Interazioni con altri visitatori e modalità fotografica
+
+[R259] Accesso a documenti d'archivio e accesso offline
+
+[R260] Contenuti storici dinamici e possibilità di fare domande
+
+[R261] Visite notturne simulate e accesso a documenti d'archivio
+
+[R262] Esperienze multisensoriali e visite notturne simulate
+
+[R263] Collezioni temporanee interattive e percorsi personalizzati
+
+[R264] Tracce audio storiche e visite notturne simulate
+
+[R265] Visite in tempo reale con amici e visione storica evolutiva
+
+[R266] Ricerca vocale e visite notturne simulate
+
+[R267] Accesso offline e modalità realtà mista
+
+[R268] Esperienze in prima persona e accesso offline
+
+[R269] Tracce audio storiche e musica ambientale storica
+
+[R270] Scenari animati e esperienze in prima persona
+
+[R271] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R272] Scenari animati e esperienze in prima persona
+
+[R273] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R274] Guide virtuali parlanti e modalità fotografica
+
+[R275] Esplorazione libera in stile open world e supporto per più lingue
+
+[R276] Visite in tempo reale con amici e visione storica evolutiva
+
+[R277] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R278] Integrazione con la realtà fisica e esperienze tematiche
+
+[R279] Chat con esperti e più interazione con gli oggetti
+
+[R280] Scenari animati e modalità fotografica
+
+[R281] Tecnologia vocale e supporto a haptic feedback
+
+[R282] Contenuti storici dinamici e possibilità di fare domande
+
+[R283] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R284] Chat con esperti e più interazione con gli oggetti
+
+[R285] Esperienze narrative e visione a raggi x degli oggetti
+
+[R286] Modalità esperto e guide virtuali parlanti
+
+[R287] Tecnologia vocale e supporto a haptic feedback
+
+[R288] Traduzione simultanea e tracce audio storiche
+
+[R289] Tecnologia vocale e supporto per visori diversi
+
+[R290] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R291] Accesso a documentari e gamification educativa
+
+[R292] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R293] Contenuti adattivi all'età e esperienze tematiche
+
+[R294] Modalità esperto e guide virtuali parlanti
+
+[R295] Accesso a documenti d'archivio e accesso offline
+
+[R296] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R297] Tracce audio storiche e visite notturne simulate
+
+[R298] Accesso offline e modalità realtà mista
+
+[R299] Tecnologia vocale e contenuti adattivi all'età
+
+[R300] Esplorazione libera in stile open world e supporto per più lingue
+
+[R301] Chat con esperti e accesso a documentari
+
+[R302] Contenuti adattivi all'età e esperienze tematiche
+
+[R303] Accesso a documentari e gamification educativa
+
+[R304] Esperienze multisensoriali e visite notturne simulate
+
+[R305] Scenari animati e riconoscimento facciale per emozioni
+
+[R306] Contenuti storici dinamici e possibilità di fare domande
+
+[R307] Interazione con strumenti antichi e esperienze tematiche
+
+[R308] Accesso offline e interazione con strumenti antichi
+
+[R309] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R310] Scenari animati e esperienze in prima persona
+
+[R311] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R312] Visite notturne simulate e interazione con strumenti antichi
+
+[R313] Tecnologia vocale e supporto a haptic feedback
+
+[R314] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R315] Tracce audio storiche e musica ambientale storica
+
+[R316] Collezioni temporanee interattive e percorsi personalizzati
+
+[R317] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R318] Accesso a documentari e gamification educativa
+
+[R319] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R320] Visione storica evolutiva e accesso a documentari
+
+[R321] Esperienze multisensoriali e visite notturne simulate
+
+[R322] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R323] Scenari animati e riconoscimento facciale per emozioni
+
+[R324] Ricerca vocale e visite notturne simulate
+
+[R325] Chat con esperti e più interazione con gli oggetti
+
+[R326] Visione storica evolutiva e accesso a documentari
+
+[R327] Esperienze narrative e creazione del proprio avatar
+
+[R328] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R329] Scenari animati e modalità fotografica
+
+[R330] Collezioni temporanee interattive e percorsi personalizzati
+
+[R331] Accesso a documentari
+
+[R332] Modalità cooperativa e interazione con strumenti antichi
+
+[R333] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R334] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R335] Modalità realtà mista e esperienze narrative
+
+[R336] Modalità cooperativa e interazione con strumenti antichi
+
+[R337] Accesso a documenti d'archivio e accesso offline
+
+[R338] Scenari animati e modalità fotografica
+
+[R339] Tracce audio storiche e musica ambientale storica
+
+[R340] Esperienze narrative e creazione del proprio avatar
+
+[R341] Esperienze in prima persona e accesso offline
+
+[R342] Esperienze multisensoriali e visite notturne simulate
+
+[R343] Tracce audio storiche e visite notturne simulate
+
+[R344] Modalità esperto e guide virtuali parlanti
+
+[R345] Contenuti adattivi all'età e esperienze tematiche
+
+[R346] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R347] Traduzione simultanea e tracce audio storiche
+
+[R348] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R349] Scenari animati e esperienze in prima persona
+
+[R350] Chat con esperti e più interazione con gli oggetti
+
+[R351] Ricerca vocale e visite notturne simulate
+
+[R352] Accesso offline e modalità realtà mista
+
+[R353] Esperienze narrative e visione a raggi x degli oggetti
+
+[R354] Tracce audio storiche e visite notturne simulate
+
+[R355] Accesso a documentari
+
+[R356] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R357] Scenari animati e esperienze in prima persona
+
+[R358] Tecnologia vocale e contenuti adattivi all'età
+
+[R359] Tracce audio storiche e musica ambientale storica
+
+[R360] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R361] Visione storica evolutiva e accesso a documentari
+
+[R362] Scenari animati e riconoscimento facciale per emozioni
+
+[R363] Esperienze narrative e visione a raggi x degli oggetti
+
+[R364] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R365] Tecnologia vocale e contenuti adattivi all'età
+
+[R366] Accesso a documentari
+
+[R367] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R368] Chat con esperti e accesso a documentari
+
+[R369] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R370] Esperienze in prima persona e accesso offline
+
+[R371] Integrazione con la realtà fisica e domande aperte guidate
+
+[R372] Esperienze narrative e creazione del proprio avatar
+
+[R373] Tecnologia vocale e contenuti adattivi all'età
+
+[R374] Visione storica evolutiva e realtà aumentata integrata
+
+[R375] Esperienza per bambini e visione storica evolutiva
+
+[R376] Modalità realtà mista e esperienze narrative
+
+[R377] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R378] Visite in tempo reale con amici e visione storica evolutiva
+
+[R379] Modalità esperto e guide virtuali parlanti
+
+[R380] Accesso offline e interazione con strumenti antichi
+
+[R381] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R382] Accesso offline e modalità realtà mista
+
+[R383] Visite notturne simulate e accesso a documenti d'archivio
+
+[R384] Contenuti adattivi all'età e esperienze tematiche
+
+[R385] Contenuti storici dinamici e possibilità di fare domande
+
+[R386] Accesso offline e interazione con strumenti antichi
+
+[R387] Accesso offline e modalità realtà mista
+
+[R388] Esperienza per bambini e visione storica evolutiva
+
+[R389] Esperienze in prima persona e accesso offline
+
+[R390] Accesso a documentari e gamification educativa
+
+[R391] Tecnologia vocale e supporto per visori diversi
+
+[R392] Tracce audio storiche e musica ambientale storica
+
+[R393] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R394] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R395] Chat con esperti e più interazione con gli oggetti
+
+[R396] Tecnologia vocale e contenuti adattivi all'età
+
+[R397] Tecnologia vocale e supporto per visori diversi
+
+[R398] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R399] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R400] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R401] Chat con esperti e accesso a documentari
+
+[R402] Modalità esperto e guide virtuali parlanti
+
+[R403] Accesso offline e interazione con strumenti antichi
+
+[R404] Traduzione simultanea e tracce audio storiche
+
+[R405] Interazioni con altri visitatori e modalità fotografica
+
+[R406] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R407] Integrazione con la realtà fisica e esperienze tematiche
+
+[R408] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R409] Visite notturne simulate e accesso a documenti d'archivio
+
+[R410] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R411] Modalità cooperativa e interazione con strumenti antichi
+
+[R412] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R413] Ricerca vocale e visite notturne simulate
+
+[R414] Esperienze narrative e visione a raggi x degli oggetti
+
+[R415] Modalità realtà mista e esperienze narrative
+
+[R416] Tecnologia vocale e supporto a haptic feedback
+
+[R417] Gamification educativa e tecnologia vocale
+
+[R418] Modalità realtà mista e esperienze narrative
+
+[R419] Integrazione con la realtà fisica e esperienze tematiche
+
+[R420] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R421] Esperienze narrative e creazione del proprio avatar
+
+[R422] Visite notturne simulate e accesso a documenti d'archivio
+
+[R423] Collezioni temporanee interattive e percorsi personalizzati
+
+[R424] Scenari animati e esperienze in prima persona
+
+[R425] Accesso offline e modalità realtà mista
+
+[R426] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R427] Visione storica evolutiva e realtà aumentata integrata
+
+[R428] Accesso a documenti d'archivio e accesso offline
+
+[R429] Guide virtuali parlanti e modalità fotografica
+
+[R430] Integrazione con la realtà fisica e domande aperte guidate
+
+[R431] Contenuti adattivi all'età e esperienze tematiche
+
+[R432] Tecnologia vocale e supporto a haptic feedback
+
+[R433] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R434] Interazione con strumenti antichi e esperienze tematiche
+
+[R435] Visite notturne simulate e interazione con strumenti antichi
+
+[R436] Contenuti storici dinamici e possibilità di fare domande
+
+[R437] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R438] Accesso a documenti d'archivio e accesso offline
+
+[R439] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R440] Integrazione con la realtà fisica e domande aperte guidate
+
+[R441] Collezioni temporanee interattive e percorsi personalizzati
+
+[R442] Gamification educativa e tecnologia vocale
+
+[R443] Chat con esperti e più interazione con gli oggetti
+
+[R444] Esperienze multisensoriali e visite notturne simulate
+
+[R445] Scenari animati e modalità fotografica
+
+[R446] Scenari animati e esperienze in prima persona
+
+[R447] Visite in tempo reale con amici e visione storica evolutiva
+
+[R448] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R449] Visione storica evolutiva e accesso a documentari
+
+[R450] Gamification educativa e tecnologia vocale
+
+[R451] Tracce audio storiche e musica ambientale storica
+
+[R452] Esplorazione libera in stile open world e supporto per più lingue
+
+[R453] Tracce audio storiche e visite notturne simulate
+
+[R454] Tracce audio storiche e musica ambientale storica
+
+[R455] Accesso offline e interazione con strumenti antichi
+
+[R456] Interazioni con altri visitatori e modalità fotografica
+
+[R457] Modalità cooperativa e interazione con strumenti antichi
+
+[R458] Scenari animati e modalità fotografica
+
+[R459] Interazione con strumenti antichi e esperienze tematiche
+
+[R460] Visite notturne simulate e accesso a documenti d'archivio
+
+[R461] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R462] Tecnologia vocale e supporto per visori diversi
+
+[R463] Tecnologia vocale e supporto per visori diversi
+
+[R464] Integrazione con la realtà fisica e domande aperte guidate
+
+[R465] Guide virtuali parlanti e modalità fotografica
+
+[R466] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R467] Esperienza per bambini e visione storica evolutiva
+
+[R468] Tecnologia vocale e supporto a haptic feedback
+
+[R469] Collezioni temporanee interattive e percorsi personalizzati
+
+[R470] Contenuti storici dinamici e possibilità di fare domande
+
+[R471] Esperienze in prima persona e accesso offline
+
+[R472] Accesso a documentari e gamification educativa
+
+[R473] Modalità realtà mista e esperienze narrative
+
+[R474] Modalità esperto e guide virtuali parlanti
+
+[R475] Esplorazione libera in stile open world e supporto per più lingue
+
+[R476] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R477] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R478] Ricerca vocale e visite notturne simulate
+
+[R479] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R480] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R481] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R482] Integrazione con la realtà fisica e domande aperte guidate
+
+[R483] Modalità realtà mista e esperienze narrative
+
+[R484] Integrazione con la realtà fisica e domande aperte guidate
+
+[R485] Integrazione con la realtà fisica e domande aperte guidate
+
+[R486] Integrazione con la realtà fisica e esperienze tematiche
+
+[R487] Ricerca vocale e visite notturne simulate
+
+[R488] Tracce audio storiche e visite notturne simulate
+
+[R489] Visite in tempo reale con amici e visione storica evolutiva
+
+[R490] Tecnologia vocale e supporto per visori diversi
+
+[R491] Visione storica evolutiva e realtà aumentata integrata
+
+[R492] Tracce audio storiche e musica ambientale storica
+
+[R493] Enlisted o war thunder in vr con gli amici
+
+[R494] Vorrei che si attenuasse il senso di nausea
+
+[R495] Interagire con gli oggetti, maneggiati ed esaminarli da vicino.
+
+[R496] diminuire il malessere
+
+[R497] fare qualcosa per risolvere la nausea
+
+[R498] risolvere il malore
+
+[R499] risolvere il senso di nausea
+
+[R500] Interazioni con altri visitatori e modalità fotografica
+
+[R501] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R502] Tecnologia vocale e contenuti adattivi all'età
+
+[R503] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R504] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R505] Gamification educativa e tecnologia vocale
+
+[R506] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R507] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R508] Esperienze multisensoriali e visite notturne simulate
+
+[R509] Esperienze narrative e visione a raggi x degli oggetti
+
+[R510] Accesso offline e interazione con strumenti antichi
+
+[R511] Tracce audio storiche e musica ambientale storica
+
+[R512] Visite notturne simulate e accesso a documenti d'archivio
+
+[R513] Integrazione con la realtà fisica e domande aperte guidate
+
+[R514] Chat con esperti e accesso a documentari
+
+[R515] risolvere il senso di nausea
+
+[R516] diminuire il malessere
+
+[R517] fare qualcosa per risolvere la nausea
+
+[R518] risolvere il malore
+
+[R519] Tracce audio storiche e visite notturne simulate
+
+[R520] Scenari animati e modalità fotografica
+
+[R521] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R522] Esplorazione libera in stile open world e supporto per più lingue
+
+[R523] Ricerca vocale e visite notturne simulate
+
+[R524] Guide virtuali parlanti e modalità fotografica
+
+[R525] Modalità esperto e guide virtuali parlanti
+
+[R526] Esperienze narrative e creazione del proprio avatar
+
+[R527] Esperienze in prima persona e accesso offline
+
+[R528] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R529] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R530] Visite in tempo reale con amici e visione storica evolutiva
+
+[R531] Scenari animati e esperienze in prima persona
+
+[R532] Traduzione simultanea e tracce audio storiche
+
+[R533] Contenuti adattivi all'età e esperienze tematiche
+
+[R534] Visite notturne simulate e accesso a documenti d'archivio
+
+[R535] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R536] Accesso a documenti d'archivio e accesso offline
+
+[R537] Tecnologia vocale e supporto per visori diversi
+
+[R538] Chat con esperti e accesso a documentari
+
+[R539] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R540] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R541] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R542] Scenari animati e riconoscimento facciale per emozioni
+
+[R543] Tecnologia vocale e supporto a haptic feedback
+
+[R544] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R545] Interazione con strumenti antichi e esperienze tematiche
+
+[R546] Modalità cooperativa e interazione con strumenti antichi
+
+[R547] Integrazione con la realtà fisica e domande aperte guidate
+
+[R548] Tracce audio storiche e musica ambientale storica
+
+[R549] Accesso a documentari
+
+[R550] Integrazione con la realtà fisica e esperienze tematiche
+
+[R551] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R552] Modalità realtà mista e esperienze narrative
+
+[R553] Gamification educativa e tecnologia vocale
+
+[R554] Visite notturne simulate e interazione con strumenti antichi
+
+[R555] Esperienza per bambini e visione storica evolutiva
+
+[R556] Accesso offline e interazione con strumenti antichi
+
+[R557] Chat con esperti e più interazione con gli oggetti
+
+[R558] Visione storica evolutiva e realtà aumentata integrata
+
+[R559] Contenuti storici dinamici e possibilità di fare domande
+
+[R560] Accesso a documentari e gamification educativa
+
+[R561] Interazioni con altri visitatori e modalità fotografica
+
+[R562] Tecnologia vocale e contenuti adattivi all'età
+
+[R563] Collezioni temporanee interattive e percorsi personalizzati
+
+[R564] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R565] Esperienze multisensoriali e visite notturne simulate
+
+[R566] Accesso offline e modalità realtà mista
+
+[R567] Esperienze narrative e visione a raggi x degli oggetti
+
+[R568] Visione storica evolutiva e accesso a documentari
+
+[R569] fare qualcosa per risolvere la nausea
+
+[R570] diminuire il malessere
+
+[R571] risolvere il senso di nausea
+
+[R572] risolvere il malore
+
+[R573] Traduzione simultanea e tracce audio storiche
+
+[R574] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R575] Esplorazione libera in stile open world e supporto per più lingue
+
+[R576] Accesso offline e interazione con strumenti antichi
+
+[R577] Integrazione con la realtà fisica e domande aperte guidate
+
+[R578] Tecnologia vocale e supporto per visori diversi
+
+[R579] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R580] Modalità cooperativa e interazione con strumenti antichi
+
+[R581] Scenari animati e esperienze in prima persona
+
+[R582] Chat con esperti e più interazione con gli oggetti
+
+[R583] Scenari animati e modalità fotografica
+
+[R584] Accesso a documentari
+
+[R585] Esperienza per bambini e visione storica evolutiva
+
+[R586] Visione storica evolutiva e realtà aumentata integrata
+
+[R587] Esperienze narrative e creazione del proprio avatar
+
+[R588] Tracce audio storiche e musica ambientale storica
+
+[R589] Contenuti storici dinamici e possibilità di fare domande
+
+[R590] Interazioni con altri visitatori e modalità fotografica
+
+[R591] Visite notturne simulate e interazione con strumenti antichi
+
+[R592] Interazione con strumenti antichi e esperienze tematiche
+
+[R593] Accesso a documenti d'archivio e accesso offline
+
+[R594] Chat con esperti e accesso a documentari
+
+[R595] Visione storica evolutiva e accesso a documentari
+
+[R596] Modalità esperto e guide virtuali parlanti
+
+[R597] Accesso offline e modalità realtà mista
+
+[R598] Tecnologia vocale e contenuti adattivi all'età
+
+[R599] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R600] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R601] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R602] Esperienze multisensoriali e visite notturne simulate
+
+[R603] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R604] Collezioni temporanee interattive e percorsi personalizzati
+
+[R605] Modalità realtà mista e esperienze narrative
+
+[R606] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R607] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R608] Esperienze narrative e visione a raggi x degli oggetti
+
+[R609] Accesso a documentari e gamification educativa
+
+[R610] Integrazione con la realtà fisica e esperienze tematiche
+
+[R611] Visite in tempo reale con amici e visione storica evolutiva
+
+[R612] Tracce audio storiche e visite notturne simulate
+
+[R613] Tecnologia vocale e supporto a haptic feedback
+
+[R614] Ricerca vocale e visite notturne simulate
+
+[R615] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R616] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R617] Visite notturne simulate e accesso a documenti d'archivio
+
+[R618] Esperienze in prima persona e accesso offline
+
+[R619] Gamification educativa e tecnologia vocale
+
+[R620] Guide virtuali parlanti e modalità fotografica
+
+[R621] Scenari animati e riconoscimento facciale per emozioni
+
+[R622] Contenuti adattivi all'età e esperienze tematiche
+
+[R623] risolvere il senso di nausea
+
+[R624] diminuire il malessere
+
+[R625] fare qualcosa per risolvere la nausea
+
+[R626] risolvere il malore
+
+[R627] Esperienze narrative e creazione del proprio avatar
+
+[R628] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R629] Contenuti storici dinamici e possibilità di fare domande
+
+[R630] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R631] Accesso offline e interazione con strumenti antichi
+
+[R632] Accesso a documenti d'archivio e accesso offline
+
+[R633] Scenari animati e modalità fotografica
+
+[R634] Gamification educativa e tecnologia vocale
+
+[R635] Scenari animati e esperienze in prima persona
+
+[R636] Visione storica evolutiva e accesso a documentari
+
+[R637] Tracce audio storiche e visite notturne simulate
+
+[R638] Integrazione con la realtà fisica e domande aperte guidate
+
+[R639] Traduzione simultanea e tracce audio storiche
+
+[R640] Accesso a documentari
+
+[R641] Esperienze multisensoriali e visite notturne simulate
+
+[R642] Tracce audio storiche e musica ambientale storica
+
+[R643] Scenari animati e riconoscimento facciale per emozioni
+
+[R644] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R645] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R646] Visione storica evolutiva e realtà aumentata integrata
+
+[R647] Modalità realtà mista e esperienze narrative
+
+[R648] Modalità cooperativa e interazione con strumenti antichi
+
+[R649] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R650] Esperienza per bambini e visione storica evolutiva
+
+[R651] Visite notturne simulate e interazione con strumenti antichi
+
+[R652] Tecnologia vocale e supporto a haptic feedback
+
+[R653] Integrazione con la realtà fisica e esperienze tematiche
+
+[R654] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R655] Collezioni temporanee interattive e percorsi personalizzati
+
+[R656] Accesso a documentari e gamification educativa
+
+[R657] Modalità esperto e guide virtuali parlanti
+
+[R658] Contenuti adattivi all'età e esperienze tematiche
+
+[R659] Guide virtuali parlanti e modalità fotografica
+
+[R660] Interazione con strumenti antichi e esperienze tematiche
+
+[R661] Visite notturne simulate e accesso a documenti d'archivio
+
+[R662] Esperienze narrative e visione a raggi x degli oggetti
+
+[R663] Tecnologia vocale e contenuti adattivi all'età
+
+[R664] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R665] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R666] Accesso offline e modalità realtà mista
+
+[R667] Chat con esperti e più interazione con gli oggetti
+
+[R668] Chat con esperti e accesso a documentari
+
+[R669] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R670] Tecnologia vocale e supporto per visori diversi
+
+[R671] Esplorazione libera in stile open world e supporto per più lingue
+
+[R672] Esperienze in prima persona e accesso offline
+
+[R673] Ricerca vocale e visite notturne simulate
+
+[R674] Visite in tempo reale con amici e visione storica evolutiva
+
+[R675] Interazioni con altri visitatori e modalità fotografica
+
+[R676] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R677] risolvere il malore
+
+[R678] risolvere il senso di nausea
+
+[R679] diminuire il malessere
+
+[R680] Esperienze narrative e creazione del proprio avatar
+
+[R681] Accesso offline e modalità realtà mista
+
+[R682] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R683] fare qualcosa per risolvere la nausea
+
+[R684] Accesso a documentari
+
+[R685] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R686] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R687] Contenuti adattivi all'età e esperienze tematiche
+
+[R688] Tracce audio storiche e musica ambientale storica
+
+[R689] Scenari animati e modalità fotografica
+
+[R690] Scenari animati e riconoscimento facciale per emozioni
+
+[R691] Tracce audio storiche e visite notturne simulate
+
+[R692] Tecnologia vocale e supporto a haptic feedback
+
+[R693] Visite notturne simulate e interazione con strumenti antichi
+
+[R694] Interazioni con altri visitatori e modalità fotografica
+
+[R695] Accesso offline e interazione con strumenti antichi
+
+[R696] Accesso a documenti d'archivio e accesso offline
+
+[R697] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R698] Tecnologia vocale e supporto per visori diversi
+
+[R699] Esperienze narrative e visione a raggi x degli oggetti
+
+[R700] Visione storica evolutiva e realtà aumentata integrata
+
+[R701] Interazione con strumenti antichi e esperienze tematiche
+
+[R702] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R703] Chat con esperti e accesso a documentari
+
+[R704] Guide virtuali parlanti e modalità fotografica
+
+[R705] Esperienze in prima persona e accesso offline
+
+[R706] Gamification educativa e tecnologia vocale
+
+[R707] Chat con esperti e più interazione con gli oggetti
+
+[R708] Visite notturne simulate e accesso a documenti d'archivio
+
+[R709] Tecnologia vocale e contenuti adattivi all'età
+
+[R710] Contenuti storici dinamici e possibilità di fare domande
+
+[R711] Modalità cooperativa e interazione con strumenti antichi
+
+[R712] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R713] Esperienze multisensoriali e visite notturne simulate
+
+[R714] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R715] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R716] Visite in tempo reale con amici e visione storica evolutiva
+
+[R717] Collezioni temporanee interattive e percorsi personalizzati
+
+[R718] Ricerca vocale e visite notturne simulate
+
+[R719] Integrazione con la realtà fisica e esperienze tematiche
+
+[R720] Integrazione con la realtà fisica e domande aperte guidate
+
+[R721] Scenari animati e esperienze in prima persona
+
+[R722] Accesso a documentari e gamification educativa
+
+[R723] Traduzione simultanea e tracce audio storiche
+
+[R724] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R725] Visione storica evolutiva e accesso a documentari
+
+[R726] Esperienza per bambini e visione storica evolutiva
+
+[R727] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R728] Modalità realtà mista e esperienze narrative
+
+[R729] Esplorazione libera in stile open world e supporto per più lingue
+
+[R730] Modalità esperto e guide virtuali parlanti
+
+[R731] risolvere il senso di nausea
+
+[R732] diminuire il malessere
+
+[R733] risolvere il malore
+
+[R734] fare qualcosa per risolvere la nausea
+
+[R735] Ricerca vocale e visite notturne simulate
+
+[R736] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R737] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R738] Accesso a documentari
+
+[R739] Gamification educativa e tecnologia vocale
+
+[R740] Accesso a documentari e gamification educativa
+
+[R741] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R742] Esplorazione libera in stile open world e supporto per più lingue
+
+[R743] Traduzione simultanea e tracce audio storiche
+
+[R744] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R745] Interazione con strumenti antichi e esperienze tematiche
+
+[R746] Contenuti adattivi all'età e esperienze tematiche
+
+[R747] Visione storica evolutiva e accesso a documentari
+
+[R748] Scenari animati e riconoscimento facciale per emozioni
+
+[R749] Integrazione con la realtà fisica e esperienze tematiche
+
+[R750] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R751] Modalità esperto e guide virtuali parlanti
+
+[R752] Visite in tempo reale con amici e visione storica evolutiva
+
+[R753] Esperienze multisensoriali e visite notturne simulate
+
+[R754] Modalità cooperativa e interazione con strumenti antichi
+
+[R755] Scenari animati e modalità fotografica
+
+[R756] Tecnologia vocale e supporto a haptic feedback
+
+[R757] Esperienze narrative e creazione del proprio avatar
+
+[R758] Chat con esperti e più interazione con gli oggetti
+
+[R759] Tracce audio storiche e visite notturne simulate
+
+[R760] Esperienza per bambini e visione storica evolutiva
+
+[R761] Modalità realtà mista e esperienze narrative
+
+[R762] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R763] Tecnologia vocale e contenuti adattivi all'età
+
+[R764] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R765] Esperienze in prima persona e accesso offline
+
+[R766] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R767] Tecnologia vocale e supporto per visori diversi
+
+[R768] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R769] Contenuti storici dinamici e possibilità di fare domande
+
+[R770] Esperienze narrative e visione a raggi x degli oggetti
+
+[R771] Accesso offline e modalità realtà mista
+
+[R772] Tracce audio storiche e musica ambientale storica
+
+[R773] Chat con esperti e accesso a documentari
+
+[R774] Integrazione con la realtà fisica e domande aperte guidate
+
+[R775] Accesso offline e interazione con strumenti antichi
+
+[R776] Scenari animati e esperienze in prima persona
+
+[R777] Interazioni con altri visitatori e modalità fotografica
+
+[R778] Visione storica evolutiva e realtà aumentata integrata
+
+[R779] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R780] Accesso a documenti d'archivio e accesso offline
+
+[R781] Visite notturne simulate e accesso a documenti d'archivio
+
+[R782] Guide virtuali parlanti e modalità fotografica
+
+[R783] Collezioni temporanee interattive e percorsi personalizzati
+
+[R784] Visite notturne simulate e interazione con strumenti antichi
+
+[R785] risolvere il malore
+
+[R786] diminuire il malessere
+
+[R787] risolvere il senso di nausea
+
+[R788] fare qualcosa per risolvere la nausea
+
+[R789] Tecnologia vocale e supporto per visori diversi
+
+[R790] Visite in tempo reale con amici e visione storica evolutiva
+
+[R791] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R792] Traduzione simultanea e tracce audio storiche
+
+[R793] Integrazione con la realtà fisica e domande aperte guidate
+
+[R794] Interazione con strumenti antichi e esperienze tematiche
+
+[R795] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R796] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R797] Visite notturne simulate e accesso a documenti d'archivio
+
+[R798] Visione storica evolutiva e realtà aumentata integrata
+
+[R799] Chat con esperti e più interazione con gli oggetti
+
+[R800] Contenuti adattivi all'età e esperienze tematiche
+
+[R801] Modalità esperto e guide virtuali parlanti
+
+[R802] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R803] Tecnologia vocale e supporto a haptic feedback
+
+[R804] Modalità realtà mista e esperienze narrative
+
+[R805] Visite notturne simulate e interazione con strumenti antichi
+
+[R806] Chat con esperti e accesso a documentari
+
+[R807] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R808] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R809] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R810] Accesso offline e modalità realtà mista
+
+[R811] Esperienza per bambini e visione storica evolutiva
+
+[R812] Scenari animati e riconoscimento facciale per emozioni
+
+[R813] Esperienze multisensoriali e visite notturne simulate
+
+[R814] Interazioni con altri visitatori e modalità fotografica
+
+[R815] Esperienze narrative e visione a raggi x degli oggetti
+
+[R816] Scenari animati e esperienze in prima persona
+
+[R817] Accesso a documentari e gamification educativa
+
+[R818] Accesso a documenti d'archivio e accesso offline
+
+[R819] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R820] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R821] Tracce audio storiche e visite notturne simulate
+
+[R822] Tecnologia vocale e contenuti adattivi all'età
+
+[R823] Ricerca vocale e visite notturne simulate
+
+[R824] Visione storica evolutiva e accesso a documentari
+
+[R825] Guide virtuali parlanti e modalità fotografica
+
+[R826] Tracce audio storiche e musica ambientale storica
+
+[R827] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R828] Accesso a documentari
+
+[R829] Gamification educativa e tecnologia vocale
+
+[R830] Integrazione con la realtà fisica e esperienze tematiche
+
+[R831] Esperienze narrative e creazione del proprio avatar
+
+[R832] Esperienze in prima persona e accesso offline
+
+[R833] Esplorazione libera in stile open world e supporto per più lingue
+
+[R834] Collezioni temporanee interattive e percorsi personalizzati
+
+[R835] Accesso offline e interazione con strumenti antichi
+
+[R836] Modalità cooperativa e interazione con strumenti antichi
+
+[R837] Contenuti storici dinamici e possibilità di fare domande
+
+[R838] Scenari animati e modalità fotografica
+
+[R839] fare qualcosa per risolvere la nausea
+
+[R840] risolvere il senso di nausea
+
+[R841] risolvere il malore
+
+[R842] diminuire il malessere
+
+[R843] Scenari animati e esperienze in prima persona
+
+[R844] Visione storica evolutiva e realtà aumentata integrata
+
+[R845] Scenari animati e riconoscimento facciale per emozioni
+
+[R846] Tecnologia vocale e contenuti adattivi all'età
+
+[R847] Accesso offline e interazione con strumenti antichi
+
+[R848] Interazione con strumenti antichi e esperienze tematiche
+
+[R849] Guide virtuali parlanti e modalità fotografica
+
+[R850] Accesso a documentari
+
+[R851] Visite notturne simulate e interazione con strumenti antichi
+
+[R852] Modalità cooperativa e interazione con strumenti antichi
+
+[R853] Integrazione con la realtà fisica e esperienze tematiche
+
+[R854] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R855] Modalità esperto e guide virtuali parlanti
+
+[R856] Esperienza per bambini e visione storica evolutiva
+
+[R857] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R858] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R859] Accesso a documenti d'archivio e accesso offline
+
+[R860] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R861] Visione storica evolutiva e accesso a documentari
+
+[R862] Tecnologia vocale e supporto a haptic feedback
+
+[R863] Traduzione simultanea e tracce audio storiche
+
+[R864] Chat con esperti e più interazione con gli oggetti
+
+[R865] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R866] Contenuti adattivi all'età e esperienze tematiche
+
+[R867] Accesso offline e modalità realtà mista
+
+[R868] Ricerca vocale e visite notturne simulate
+
+[R869] Esplorazione libera in stile open world e supporto per più lingue
+
+[R870] Contenuti storici dinamici e possibilità di fare domande
+
+[R871] Interazioni con altri visitatori e modalità fotografica
+
+[R872] Esperienze multisensoriali e visite notturne simulate
+
+[R873] Gamification educativa e tecnologia vocale
+
+[R874] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R875] Esperienze narrative e visione a raggi x degli oggetti
+
+[R876] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R877] Tracce audio storiche e visite notturne simulate
+
+[R878] Esperienze narrative e creazione del proprio avatar
+
+[R879] Scenari animati e modalità fotografica
+
+[R880] Visite in tempo reale con amici e visione storica evolutiva
+
+[R881] Chat con esperti e accesso a documentari
+
+[R882] Integrazione con la realtà fisica e domande aperte guidate
+
+[R883] Modalità realtà mista e esperienze narrative
+
+[R884] Esperienze in prima persona e accesso offline
+
+[R885] Accesso a documentari e gamification educativa
+
+[R886] Visite notturne simulate e accesso a documenti d'archivio
+
+[R887] Tracce audio storiche e musica ambientale storica
+
+[R888] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R889] Collezioni temporanee interattive e percorsi personalizzati
+
+[R890] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R891] Tecnologia vocale e supporto per visori diversi
+
+[R892] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R893] diminuire il malessere
+
+[R894] risolvere il senso di nausea
+
+[R895] fare qualcosa per risolvere la nausea
+
+[R896] risolvere il malore
+
+[R897] Accesso a documentari
+
+[R898] Visite in tempo reale con amici e visione storica evolutiva
+
+[R899] Modalità esperto e guide virtuali parlanti
+
+[R900] Esperienze narrative e creazione del proprio avatar
+
+[R901] Modalità cooperativa e interazione con strumenti antichi
+
+[R902] Accesso a documentari e gamification educativa
+
+[R903] Gamification educativa e tecnologia vocale
+
+[R904] Accesso offline e modalità realtà mista
+
+[R905] Tecnologia vocale e supporto per visori diversi
+
+[R906] Chat con esperti e accesso a documentari
+
+[R907] Modalità accessibile e riconoscimento facciale per emozioni
+
+[R908] Interazioni con altri visitatori e modalità fotografica
+
+[R909] Tracce audio storiche e visite notturne simulate
+
+[R910] Esperienze multisensoriali e visite notturne simulate
+
+[R911] Ricerca vocale e visite notturne simulate
+
+[R912] Visite notturne simulate e sincronizzazione con l'app mobile
+
+[R913] Visite notturne simulate e accesso a documenti d'archivio
+
+[R914] Visite notturne simulate e interazione con strumenti antichi
+
+[R915] Contenuti adattivi all'età e esperienze tematiche
+
+[R916] Accesso a documentari e ricostruzioni 3d dettagliate
+
+[R917] Integrazione con la realtà fisica e domande aperte guidate
+
+[R918] Scenari animati e modalità fotografica
+
+[R919] Scenari animati e esperienze in prima persona
+
+[R920] Esperienze narrative e visione a raggi x degli oggetti
+
+[R921] Interazione con strumenti antichi e esperienze tematiche
+
+[R922] Tracce audio storiche e musica ambientale storica
+
+[R923] Accesso a documenti d'archivio e accesso offline
+
+[R924] Contenuti storici dinamici e possibilità di fare domande
+
+[R925] Accesso offline e interazione con strumenti antichi
+
+[R926] Visione storica evolutiva e accesso a documentari
+
+[R927] Esplorazione libera in stile open world e supporto per più lingue
+
+[R928] Supporto per visori diversi e esplorazione libera in stile open world
+
+[R929] Traduzione simultanea e tracce audio storiche
+
+[R930] Visione a raggi X degli oggetti e esperienza per bambini
+
+[R931] Riconoscimento facciale per emozioni e interazioni con altri visitatori
+
+[R932] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R933] Esperienze in prima persona e accesso offline
+
+[R934] Modalità realtà mista e esperienze narrative
+
+[R935] Chat con esperti e più interazione con gli oggetti
+
+[R936] Visione storica evolutiva e realtà aumentata integrata
+
+[R937] Integrazione con la realtà fisica e esperienze tematiche
+
+[R938] Ricostruzioni 3D dettagliate e visite guidate registrate
+
+[R939] Guide virtuali parlanti e modalità fotografica
+
+[R940] Tecnologia vocale e contenuti adattivi all'età
+
+[R941] Possibilità di fare domande e simulazioni storiche in tempo reale
+
+[R942] Scenari animati e riconoscimento facciale per emozioni
+
+[R943] Interazione con strumenti antichi e sincronizzazione con l'app mobile
+
+[R944] Esperienza per bambini e visione storica evolutiva
+
+[R945] Tecnologia vocale e supporto a haptic feedback
+
+[R946] Collezioni temporanee interattive e percorsi personalizzati
+
+[R947] diminuire il malessere
+
+[R948] risolvere il malore
+
+[R949] risolvere il senso di nausea
+
+[R950] fare qualcosa per risolvere la nausea
+
+[R951] Incontri con avatar storici e visione a raggi x degli oggetti
+
+[R952] L'interazione con l'avatar è stata un po' frustrante., e anche diminuire il malessere
+
+[R953] L'avatar mi è sembrato troppo robotico., e anche diminuire il malessere
+
+[R954] Esperienza per bambini e visione storica evolutiva, e anche fare qualcosa per risolvere la nausea
+
+[R955] Esplorazione libera in stile open world e supporto per più lingue, e anche risolvere il senso di nausea
+
+[R956] risolvere il senso di nausea
+
+[R957] Contenuti storici dinamici e possibilità di fare domande, e anche risolvere il senso di nausea
+
+[R958] risolvere il malore
+
+[R959] Visione storica evolutiva e realtà aumentata integrata, e anche risolvere il senso di nausea
+
+[R960] Esperienza per bambini e visione storica evolutiva, e anche fare qualcosa per risolvere la nausea
+
+[R961] Esperienze narrative e visione a raggi x degli oggetti, e anche risolvere il senso di nausea
+
+[R962] L'atmosfera generale era molto rilassante., e anche risolvere il senso di nausea
+
+[R963] Possibilità di fare domande e simulazioni storiche in tempo reale, e anche fare qualcosa per risolvere la nausea
+
+[R964] L'avatar mi è sembrato troppo robotico., e anche risolvere il senso di nausea
+
+[R965] Interazioni con altri visitatori e modalità fotografica, e anche diminuire il malessere
+
+[R966] Visite in tempo reale con amici e visione storica evolutiva, e anche risolvere il malore
+
+[R967] Ho apprezzato la calma dell'ambiente virtuale., e anche diminuire il malessere
+
+[R968] Mi sono sentito un po' isolato nell'ambiente., e anche risolvere il senso di nausea
+
+[R969] L'atmosfera generale era molto rilassante., e anche risolvere il senso di nausea
+
+[R970] Ho provato un po' d'ansia nel muovermi., e anche risolvere il malore
+
+[R971] Interazioni con altri visitatori e modalità fotografica, e anche diminuire il malessere
+
+[R972] Traduzione simultanea e tracce audio storiche, e anche risolvere il malore
+
+[R973] Collezioni temporanee interattive e percorsi personalizzati, e anche risolvere il senso di nausea
+
+[R974] risolvere il malore
+
+[R975] Chat con esperti e più interazione con gli oggetti, e anche risolvere il senso di nausea
+
+[R976] Ho provato molta curiosità esplorando., e anche risolvere il senso di nausea
+
+[R977] Visione storica evolutiva e accesso a documentari, e anche risolvere il senso di nausea
+
+[R978] Mi sono sentito a mio agio durante la visita., e anche risolvere il malore
+
+[R979] Ho provato un senso di meraviglia nell'ambiente VR., e anche risolvere il senso di nausea
+
+[R980] L'avatar conversazionale era molto empatico., e anche diminuire il malessere
+
+[R981] risolvere il senso di nausea
+
+[R982] risolvere il malore
+
+[R983] fare qualcosa per risolvere la nausea
+
+[R984] Modalità cooperativa e interazione con strumenti antichi, e anche risolvere il malore
+
+[R985] diminuire il malessere
+
+[R986] Accesso offline e interazione con strumenti antichi, e anche risolvere il malore
+
+[R987] Visite notturne simulate e accesso a documenti d'archivio, e anche risolvere il senso di nausea
+
+[R988] Chat con esperti e accesso a documentari, e anche fare qualcosa per risolvere la nausea
+
+[R989] Visione a raggi X degli oggetti e esperienza per bambini, e anche diminuire il malessere
+
+[R990] Visione storica evolutiva e realtà aumentata integrata, e anche diminuire il malessere
+
+[R991] L'avatar conversazionale era molto empatico., e anche diminuire il malessere
+
+[R992] Modalità realtà mista e esperienze narrative, e anche risolvere il malore
+
+[R993] fare qualcosa per risolvere la nausea
+
+[R994] Accesso offline e interazione con strumenti antichi, e anche risolvere il malore
+
+[R995] Ho sentito un forte coinvolgimento emotivo., e anche risolvere il senso di nausea
+
+[R996] La voce dell'avatar era rassicurante e chiara., e anche fare qualcosa per risolvere la nausea
+
+[R997] Ho apprezzato la calma dell'ambiente virtuale., e anche diminuire il malessere
+
+[R998] Ho sentito un forte coinvolgimento emotivo., e anche diminuire il malessere
+
+[R999] risolvere il senso di nausea
+
+[R1000] Accesso a documentari e gamification educativa, e anche risolvere il malore
+
+[R1001] L'esperienza a tratti è stata un po' noiosa., e anche risolvere il senso di nausea
+
+[R1002] Esperienze narrative e creazione del proprio avatar, e anche risolvere il malore
+
+[R1003] Ho provato un po' d'ansia nel muovermi., e anche risolvere il senso di nausea
+
+[R1004] Mi sono sentito confuso all'inizio della visita., e anche risolvere il malore
+
+[R1005] Possibilità di fare domande e simulazioni storiche in tempo reale, e anche diminuire il malessere
+
+[R1006] Ho provato molta curiosità esplorando., e anche diminuire il malessere
+
+[R1007] Visite in tempo reale con amici e visione storica evolutiva, e anche risolvere il malore
+
+[R1008] L'interazione con l'avatar è stata un po' frustrante., e anche diminuire il malessere
+
+[R1009] L'esperienza a tratti è stata un po' noiosa., e anche fare qualcosa per risolvere la nausea
+
+[R1010] risolvere il malore
+
+[R1011] Scenari animati e esperienze in prima persona, e anche risolvere il malore
+
+[R1012] risolvere il senso di nausea
+
+[R1013] Tracce audio storiche e musica ambientale storica, e anche fare qualcosa per risolvere la nausea
+
+[R1014] Tecnologia vocale e contenuti adattivi all'età, e anche fare qualcosa per risolvere la nausea
+
+[R1015] Accesso a documenti d'archivio e accesso offline, e anche risolvere il malore
+
+[R1016] Mi sono sentito confuso all'inizio della visita., e anche risolvere il senso di nausea
+
+[R1017] Esperienze multisensoriali e visite notturne simulate, e anche risolvere il senso di nausea
+
+[R1018] L'ambiente in alcune stanze era troppo buio., e anche risolvere il malore
+
+[R1019] Esplorazione libera in stile open world e supporto per più lingue, e anche fare qualcosa per risolvere la nausea
+
+[R1020] Supporto per visori diversi e esplorazione libera in stile open world, e anche fare qualcosa per risolvere la nausea
+
+[R1021] Modalità cooperativa e interazione con strumenti antichi, e anche risolvere il malore
+
+[R1022] Mi sono divertito a interagire con gli oggetti., e anche diminuire il malessere
+
+[R1023] risolvere il malore
+
+[R1024] Interazione con strumenti antichi e sincronizzazione con l'app mobile, e anche risolvere il senso di nausea
+
+[R1025] Esperienza per bambini e visione storica evolutiva, e anche fare qualcosa per risolvere la nausea
+
+[R1026] Supporto per visori diversi e esplorazione libera in stile open world, e anche risolvere il senso di nausea
+
+[R1027] Visione a raggi X degli oggetti e esperienza per bambini, e anche fare qualcosa per risolvere la nausea
+
+[R1028] Scenari animati e modalità fotografica, e anche risolvere il senso di nausea
+
+[R1029] Chat con esperti e più interazione con gli oggetti, e anche fare qualcosa per risolvere la nausea
+
+[R1030] Gamification educativa e tecnologia vocale, e anche risolvere il senso di nausea
+
+[R1031] Traduzione simultanea e tracce audio storiche, e anche fare qualcosa per risolvere la nausea
+
+[R1032] Esplorazione libera in stile open world e supporto per più lingue, e anche risolvere il malore
+
+[R1033] Ricostruzioni 3D dettagliate e visite guidate registrate, e anche risolvere il senso di nausea
+
+[R1034] Modalità realtà mista e esperienze narrative, e anche risolvere il malore
+
+[R1035] Scenari animati e riconoscimento facciale per emozioni, e anche fare qualcosa per risolvere la nausea
+
+[R1036] Esplorazione libera in stile open world e supporto per più lingue, e anche diminuire il malessere
+
+[R1037] Ho sentito un forte coinvolgimento emotivo., e anche risolvere il malore
+
+[R1038] Visite in tempo reale con amici e visione storica evolutiva, e anche fare qualcosa per risolvere la nausea
+
+[R1039] L'avatar conversazionale era molto empatico., e anche diminuire il malessere
+
+[R1040] Modalità realtà mista e esperienze narrative, e anche risolvere il malore
+
+[R1041] risolvere il senso di nausea
+
+[R1042] L'illuminazione del museo virtuale era perfetta., e anche risolvere il malore
+
+[R1043] fare qualcosa per risolvere la nausea
+
+[R1044] Incontri con avatar storici e visione a raggi x degli oggetti, e anche diminuire il malessere
+
+[R1045] Esperienza per bambini e visione storica evolutiva, e anche fare qualcosa per risolvere la nausea
+
+[R1046] fare qualcosa per risolvere la nausea
+
+[R1047] La voce dell'avatar era rassicurante e chiara., e anche diminuire il malessere
+
+[R1048] Guide virtuali parlanti e modalità fotografica, e anche fare qualcosa per risolvere la nausea
+
+[R1049] risolvere il senso di nausea
+
+[R1050] Chat con esperti e più interazione con gli oggetti, e anche fare qualcosa per risolvere la nausea
+
+[R1051] Modalità realtà mista e esperienze narrative, e anche fare qualcosa per risolvere la nausea
+
+[R1052] diminuire il malessere
+
+[R1053] fare qualcosa per risolvere la nausea
+
+[R1054] La voce dell'avatar era rassicurante e chiara., e anche risolvere il malore
+
+[R1055] fare qualcosa per risolvere la nausea
+
+[R1056] risolvere il senso di nausea
+
+[R1057] Accesso a documentari, e anche risolvere il senso di nausea
+
+[R1058] Mi sono divertito a interagire con gli oggetti., e anche fare qualcosa per risolvere la nausea
+
+[R1059] Visite in tempo reale con amici e visione storica evolutiva, e anche diminuire il malessere
+
+[R1060] Accesso a documentari e gamification educativa, e anche risolvere il malore
+
+[R1061] L'avatar è stato gentile e molto disponibile., e anche risolvere il malore
+
+[R1062] Ho provato molta curiosità esplorando., e anche risolvere il senso di nausea
+
+[R1063] Incontri con avatar storici e visione a raggi x degli oggetti, e anche risolvere il senso di nausea
+
+[R1064] risolvere il malore
+
+[R1065] L'ambiente virtuale è incredibilmente realistico., e anche diminuire il malessere
+
+[R1066] Integrazione con la realtà fisica e domande aperte guidate, e anche fare qualcosa per risolvere la nausea
+
+[R1067] Tecnologia vocale e contenuti adattivi all'età, e anche risolvere il malore
+
+[R1068] Accesso a documentari, e anche diminuire il malessere
+
+[R1069] L'illuminazione del museo virtuale era perfetta., e anche risolvere il senso di nausea
+
+[R1070] Interazioni con altri visitatori e modalità fotografica, e anche fare qualcosa per risolvere la nausea
+
+[R1071] Esperienze multisensoriali e visite notturne simulate, e anche fare qualcosa per risolvere la nausea
+
+[R1072] diminuire il malessere
+
+[R1073] Scenari animati e riconoscimento facciale per emozioni, e anche risolvere il senso di nausea
+
+[R1074] fare qualcosa per risolvere la nausea
+
+[R1075] Ho provato un senso di meraviglia nell'ambiente VR., e anche risolvere il malore
+
+[R1076] Gamification educativa e tecnologia vocale, e anche fare qualcosa per risolvere la nausea
+
+[R1077] Integrazione con la realtà fisica e domande aperte guidate, e anche risolvere il senso di nausea
+
+[R1078] Ricerca vocale e visite notturne simulate, e anche fare qualcosa per risolvere la nausea
+
+[R1079] Esperienze multisensoriali e visite notturne simulate, e anche fare qualcosa per risolvere la nausea
+
+[R1080] Riconoscimento facciale per emozioni e interazioni con altri visitatori, e anche fare qualcosa per risolvere la nausea
+
+[R1081] L'illuminazione del museo virtuale era perfetta., e anche risolvere il malore
+
+[R1082] Chat con esperti e accesso a documentari, e anche fare qualcosa per risolvere la nausea
+
+[R1083] fare qualcosa per risolvere la nausea
+
+[R1084] Mi sono sentito un po' isolato nell'ambiente., e anche diminuire il malessere
+
+[R1085] Ricerca vocale e visite notturne simulate, e anche diminuire il malessere
+
+[R1086] Modalità cooperativa e interazione con strumenti antichi, e anche risolvere il senso di nausea
+
+[R1087] Chat con esperti e accesso a documentari, e anche risolvere il senso di nausea
+
+[R1088] risolvere il malore
+
+[R1089] Ricostruzioni 3D dettagliate e visite guidate registrate, e anche risolvere il senso di nausea
+
+[R1090] Esperienze multisensoriali e visite notturne simulate, e anche risolvere il malore
+
+[R1091] Chat con esperti e accesso a documentari, e anche diminuire il malessere
+
+[R1092] risolvere il malore
+
+[R1093] Ho provato un po' d'ansia nel muovermi., e anche fare qualcosa per risolvere la nausea
+
+[R1094] Visite notturne simulate e sincronizzazione con l'app mobile, e anche diminuire il malessere
+
+[R1095] Modalità esperto e guide virtuali parlanti, e anche risolvere il senso di nausea
+
+[R1096] fare qualcosa per risolvere la nausea
+
+[R1097] Guide virtuali parlanti e modalità fotografica, e anche risolvere il malore
+
+[R1098] Supporto per visori diversi e esplorazione libera in stile open world, e anche fare qualcosa per risolvere la nausea
+
+[R1099] Accesso a documenti d'archivio e accesso offline, e anche fare qualcosa per risolvere la nausea
+
+[R1100] Interazioni con altri visitatori e modalità fotografica, e anche risolvere il malore
+
+[R1101] Scenari animati e esperienze in prima persona, e anche risolvere il malore
+
+[R1102] Possibilità di fare domande e simulazioni storiche in tempo reale, e anche fare qualcosa per risolvere la nausea
+
+[R1103] Esperienze in prima persona e accesso offline, e anche risolvere il senso di nausea
+
+[R1104] Esperienza per bambini e visione storica evolutiva, e anche diminuire il malessere
+
+[R1105] risolvere il malore
+
+[R1106] La conversazione con l'avatar è stata fluida., e anche diminuire il malessere
+
+[R1107] diminuire il malessere
+
+[R1108] Integrazione con la realtà fisica e esperienze tematiche, e anche diminuire il malessere
+
+[R1109] Scenari animati e esperienze in prima persona, e anche risolvere il malore
+
+[R1110] diminuire il malessere
+
+[R1111] Esplorazione libera in stile open world e supporto per più lingue, e anche diminuire il malessere
+
+[R1112] Tecnologia vocale e contenuti adattivi all'età, e anche risolvere il senso di nausea
+
+[R1113] Tracce audio storiche e musica ambientale storica, e anche risolvere il senso di nausea
+
+[R1114] Incontri con avatar storici e visione a raggi x degli oggetti, e anche fare qualcosa per risolvere la nausea
+
+[R1115] Esperienza per bambini e visione storica evolutiva, e anche risolvere il malore
+
+[R1116] Collezioni temporanee interattive e percorsi personalizzati, e anche risolvere il malore
+
+[R1117] Accesso offline e modalità realtà mista, e anche diminuire il malessere
+
+[R1118] risolvere il malore
+
+[R1119] Accesso a documenti d'archivio e accesso offline, e anche diminuire il malessere
+
+[R1120] diminuire il malessere
+
+[R1121] Guide virtuali parlanti e modalità fotografica, e anche risolvere il senso di nausea
+
+[R1122] Modalità esperto e guide virtuali parlanti, e anche diminuire il malessere
+
+[R1123] fare qualcosa per risolvere la nausea
+
+[R1124] La conversazione con l'avatar è stata fluida., e anche risolvere il malore
+
+[R1125] risolvere il malore
+
+[R1126] Esperienze narrative e visione a raggi x degli oggetti, e anche diminuire il malessere
+
+[R1127] Chat con esperti e più interazione con gli oggetti, e anche risolvere il senso di nausea
+
+[R1128] Esperienze narrative e visione a raggi x degli oggetti, e anche risolvere il malore
+
+[R1129] fare qualcosa per risolvere la nausea
+
+[R1130] Tecnologia vocale e contenuti adattivi all'età, e anche diminuire il malessere
+
+[R1131] Contenuti adattivi all'età e esperienze tematiche, e anche fare qualcosa per risolvere la nausea
+
+[R1132] Ho provato molta curiosità esplorando., e anche fare qualcosa per risolvere la nausea
+
+[R1133] Esperienze multisensoriali e visite notturne simulate, e anche diminuire il malessere
+
+[R1134] Visite notturne simulate e accesso a documenti d'archivio, e anche fare qualcosa per risolvere la nausea
+
+[R1135] Esperienze multisensoriali e visite notturne simulate, e anche risolvere il malore
+
+[R1136] Modalità esperto e guide virtuali parlanti, e anche risolvere il malore
+
+[R1137] Visione storica evolutiva e realtà aumentata integrata, e anche risolvere il senso di nausea
+
+[R1138] Accesso offline e modalità realtà mista, e anche risolvere il malore
+
+[R1139] Esplorazione libera in stile open world e supporto per più lingue, e anche fare qualcosa per risolvere la nausea
+
+[R1140] Supporto per visori diversi e esplorazione libera in stile open world, e anche risolvere il malore
+
+[R1141] risolvere il malore
+
+[R1142] Contenuti adattivi all'età e esperienze tematiche, e anche diminuire il malessere
+
+[R1143] Supporto per visori diversi e esplorazione libera in stile open world, e anche diminuire il malessere
+
+[R1144] Integrazione con la realtà fisica e domande aperte guidate, e anche risolvere il senso di nausea
+
+[R1145] Incontri con avatar storici e visione a raggi x degli oggetti, e anche diminuire il malessere
+
+[R1146] Integrazione con la realtà fisica e domande aperte guidate, e anche fare qualcosa per risolvere la nausea
+
+[R1147] Scenari animati e esperienze in prima persona, e anche diminuire il malessere
+
+[R1148] Integrazione con la realtà fisica e esperienze tematiche, e anche risolvere il malore
+
+[R1149] Esplorazione libera in stile open world e supporto per più lingue, e anche fare qualcosa per risolvere la nausea
+
+[R1150] Modalità cooperativa e interazione con strumenti antichi, e anche fare qualcosa per risolvere la nausea
+
+[R1151] Scenari animati e riconoscimento facciale per emozioni, e anche risolvere il senso di nausea
+
+[R1152] Guide virtuali parlanti e modalità fotografica, e anche risolvere il malore
+
+[R1153] Modalità esperto e guide virtuali parlanti, e anche diminuire il malessere
+
+[R1154] Scenari animati e riconoscimento facciale per emozioni, e anche risolvere il malore
+
+[R1155] Visione a raggi X degli oggetti e esperienza per bambini, e anche fare qualcosa per risolvere la nausea
+
+[R1156] Traduzione simultanea e tracce audio storiche, e anche risolvere il senso di nausea
+
+[R1157] Incontri con avatar storici e visione a raggi x degli oggetti, e anche risolvere il malore
+
+[R1158] Ricostruzioni 3D dettagliate e visite guidate registrate, e anche diminuire il malessere
+
+[R1159] Supporto per visori diversi e esplorazione libera in stile open world, e anche fare qualcosa per risolvere la nausea
+
+[R1160] L'avatar mi è sembrato troppo robotico., e anche fare qualcosa per risolvere la nausea
+
+[R1161] Mi sono sentito confuso all'inizio della visita., e anche fare qualcosa per risolvere la nausea
+
+[R1162] Visite notturne simulate e sincronizzazione con l'app mobile, e anche risolvere il malore
+
+[R1163] Collezioni temporanee interattive e percorsi personalizzati, e anche risolvere il senso di nausea
+
+[R1164] Ricerca vocale e visite notturne simulate, e anche risolvere il senso di nausea
+
+[R1165] Ho provato molta curiosità esplorando., e anche risolvere il malore
+
+[R1166] Accesso a documenti d'archivio e accesso offline, e anche fare qualcosa per risolvere la nausea
+
+[R1167] fare qualcosa per risolvere la nausea
+
+[R1168] Ho provato molta curiosità esplorando., e anche risolvere il malore
+
+[R1169] Riconoscimento facciale per emozioni e interazioni con altri visitatori, e anche risolvere il malore
+
+[R1170] risolvere il malore
+
+[R1171] Chat con esperti e accesso a documentari, e anche fare qualcosa per risolvere la nausea
+
+[R1172] risolvere il senso di nausea
+
+[R1173] Visione storica evolutiva e accesso a documentari, e anche risolvere il senso di nausea
+
+[R1174] Gamification educativa e tecnologia vocale, e anche fare qualcosa per risolvere la nausea
+
+[R1175] diminuire il malessere
+
+[R1176] Esperienze narrative e visione a raggi x degli oggetti, e anche risolvere il senso di nausea
+
+[R1177] Visite in tempo reale con amici e visione storica evolutiva, e anche risolvere il senso di nausea
+
+[R1178] Modalità accessibile e riconoscimento facciale per emozioni, e anche fare qualcosa per risolvere la nausea
+
+[R1179] Ho sentito un forte coinvolgimento emotivo., e anche risolvere il senso di nausea
+
+[R1180] Mi sono sentito a mio agio durante la visita., e anche risolvere il senso di nausea
+
+[R1181] Contenuti storici dinamici e possibilità di fare domande, e anche risolvere il senso di nausea
+
+[R1182] Esperienze narrative e visione a raggi x degli oggetti, e anche risolvere il malore
+
+[R1183] L'illuminazione del museo virtuale era perfetta., e anche fare qualcosa per risolvere la nausea
+
+[R1184] Traduzione simultanea e tracce audio storiche, e anche fare qualcosa per risolvere la nausea
+
+[R1185] Supporto per visori diversi e esplorazione libera in stile open world, e anche diminuire il malessere
+
+[R1186] Integrazione con la realtà fisica e esperienze tematiche, e anche risolvere il senso di nausea
+
+[R1187] fare qualcosa per risolvere la nausea
+
+[R1188] L'avatar conversazionale era molto empatico., e anche fare qualcosa per risolvere la nausea
+
+[R1189] risolvere il senso di nausea
+
+[R1190] Traduzione simultanea e tracce audio storiche, e anche diminuire il malessere
+
+[R1191] Possibilità di fare domande e simulazioni storiche in tempo reale, e anche fare qualcosa per risolvere la nausea
+
+[R1192] Visite notturne simulate e interazione con strumenti antichi, e anche risolvere il malore
+
+[R1193] Scenari animati e riconoscimento facciale per emozioni, e anche fare qualcosa per risolvere la nausea
+
+[R1194] Esperienze narrative e creazione del proprio avatar, e anche fare qualcosa per risolvere la nausea
+
+[R1195] Riconoscimento facciale per emozioni e interazioni con altri visitatori, e anche fare qualcosa per risolvere la nausea
+
+[R1196] fare qualcosa per risolvere la nausea
+
+[R1197] Modalità realtà mista e esperienze narrative, e anche fare qualcosa per risolvere la nausea
+
+[R1198] risolvere il senso di nausea
+
+[R1199] Esperienze in prima persona e accesso offline, e anche risolvere il senso di nausea
+
+[R1200] Tecnologia vocale e contenuti adattivi all'età, e anche risolvere il senso di nausea
+
+[R1201] fare qualcosa per risolvere la nausea
+
+[R1202] Incontri con avatar storici e visione a raggi x degli oggetti, e anche risolvere il malore
+
+[R1203] L'interazione con l'avatar è stata un po' frustrante., e anche risolvere il senso di nausea
+
+[R1204] Modalità esperto e guide virtuali parlanti, e anche risolvere il malore
+
+[R1205] Ho sentito un forte coinvolgimento emotivo., e anche risolvere il malore
+
+[R1206] L'esperienza a tratti è stata un po' noiosa., e anche fare qualcosa per risolvere la nausea
+
+[R1207] Interazione con strumenti antichi e esperienze tematiche, e anche diminuire il malessere
+
+[R1208] Accesso a documenti d'archivio e accesso offline, e anche risolvere il senso di nausea
+
+[R1209] Interazione con strumenti antichi e sincronizzazione con l'app mobile, e anche fare qualcosa per risolvere la nausea
+
+[R1210] L'avatar conversazionale era molto empatico., e anche fare qualcosa per risolvere la nausea
+
+[R1211] L'avatar conversazionale era molto empatico., e anche risolvere il senso di nausea
+
+[R1212] Tracce audio storiche e musica ambientale storica, e anche diminuire il malessere
+
+[R1213] fare qualcosa per risolvere la nausea
+
+[R1214] fare qualcosa per risolvere la nausea
+
+[R1215] Visite notturne simulate e interazione con strumenti antichi, e anche fare qualcosa per risolvere la nausea
+
+[R1216] risolvere il malore
+
+[R1217] Chat con esperti e più interazione con gli oggetti, e anche diminuire il malessere
+
+[R1218] Accesso offline e modalità realtà mista, e anche risolvere il senso di nausea
+
+[R1219] Tecnologia vocale e supporto a haptic feedback, e anche diminuire il malessere
+
+[R1220] Supporto per visori diversi e esplorazione libera in stile open world, e anche risolvere il senso di nausea
+
+[R1221] Ho apprezzato la calma dell'ambiente virtuale., e anche risolvere il senso di nausea
+
+[R1222] La conversazione con l'avatar è stata fluida., e anche risolvere il malore
+
+[R1223] Scenari animati e modalità fotografica, e anche risolvere il senso di nausea
+
+[R1224] Mi sono sentito confuso all'inizio della visita., e anche diminuire il malessere
+
+[R1225] Supporto per visori diversi e esplorazione libera in stile open world, e anche risolvere il senso di nausea
+
+[R1226] Mi sono divertito a interagire con gli oggetti., e anche risolvere il senso di nausea
+
+[R1227] L'atmosfera generale era molto rilassante., e anche risolvere il malore
+
+[R1228] diminuire il malessere
+
+[R1229] Accesso a documentari, e anche risolvere il senso di nausea
+
+[R1230] Accesso offline e modalità realtà mista, e anche risolvere il senso di nausea
+
+[R1231] Accesso offline e modalità realtà mista, e anche diminuire il malessere
+
+[R1232] Modalità esperto e guide virtuali parlanti, e anche risolvere il senso di nausea
+
+[R1233] Contenuti storici dinamici e possibilità di fare domande, e anche risolvere il senso di nausea
+
+[R1234] Visite notturne simulate e accesso a documenti d'archivio, e anche fare qualcosa per risolvere la nausea
+
+[R1235] Scenari animati e riconoscimento facciale per emozioni, e anche risolvere il malore
+
+[R1236] Ho sentito un forte coinvolgimento emotivo., e anche risolvere il senso di nausea
+
+[R1237] Chat con esperti e accesso a documentari, e anche risolvere il senso di nausea
+
+[R1238] risolvere il senso di nausea
+
+[R1239] Contenuti storici dinamici e possibilità di fare domande, e anche diminuire il malessere
+
+[R1240] Ricerca vocale e visite notturne simulate, e anche diminuire il malessere
+
+[R1241] risolvere il malore
+
+[R1242] Ho provato molta curiosità esplorando., e anche fare qualcosa per risolvere la nausea
+
+[R1243] La conversazione con l'avatar è stata fluida., e anche risolvere il senso di nausea
+
+[R1244] Visione storica evolutiva e accesso a documentari, e anche diminuire il malessere
+
+[R1245] Esperienza per bambini e visione storica evolutiva, e anche risolvere il senso di nausea
+
+[R1246] Guide virtuali parlanti e modalità fotografica, e anche diminuire il malessere
+
+[R1247] Mi sono divertito a interagire con gli oggetti., e anche risolvere il malore
+
+[R1248] risolvere il senso di nausea
+
+[R1249] L'interazione con l'avatar è stata un po' frustrante., e anche diminuire il malessere
+
+[R1250] Accesso a documentari, e anche diminuire il malessere
+
+[R1251] Ricostruzioni 3D dettagliate e visite guidate registrate, e anche diminuire il malessere
+
+[R1252] diminuire il malessere
+
+[R1253] Ho provato un senso di meraviglia nell'ambiente VR., e anche risolvere il malore
+
+[R1254] fare qualcosa per risolvere la nausea
+
+[R1255] L'avatar è stato gentile e molto disponibile., e anche fare qualcosa per risolvere la nausea
+
+[R1256] Tracce audio storiche e visite notturne simulate, e anche risolvere il malore
+
+[R1257] risolvere il senso di nausea
+
+[R1258] Esperienze in prima persona e accesso offline, e anche risolvere il senso di nausea
+
+[R1259] Visite notturne simulate e interazione con strumenti antichi, e anche risolvere il malore
+
+[R1260] diminuire il malessere
+
+[R1261] Traduzione simultanea e tracce audio storiche, e anche fare qualcosa per risolvere la nausea
+
+[R1262] L'atmosfera generale era molto rilassante., e anche risolvere il senso di nausea
+
+[R1263] diminuire il malessere
+
+[R1264] Possibilità di fare domande e simulazioni storiche in tempo reale, e anche diminuire il malessere
+
+[R1265] L'avatar mi è sembrato troppo robotico., e anche diminuire il malessere
+
+[R1266] Interazioni con altri visitatori e modalità fotografica, e anche risolvere il malore
+
+[R1267] Incontri con avatar storici e visione a raggi x degli oggetti, e anche fare qualcosa per risolvere la nausea
+
+[R1268] Ricostruzioni 3D dettagliate e visite guidate registrate, e anche diminuire il malessere
+
+[R1269] L'ambiente virtuale è incredibilmente realistico., e anche risolvere il malore
+
+[R1270] Tecnologia vocale e supporto a haptic feedback, e anche fare qualcosa per risolvere la nausea
+
+[R1271] Accesso a documentari e ricostruzioni 3d dettagliate, e anche risolvere il senso di nausea
+
+[R1272] risolvere il malore
+
+[R1273] risolvere il senso di nausea
+
+[R1274] Visione a raggi X degli oggetti e esperienza per bambini, e anche risolvere il malore
+
+[R1275] Modalità accessibile e riconoscimento facciale per emozioni, e anche diminuire il malessere
+
+[R1276] L'interazione con l'avatar è stata un po' frustrante., e anche fare qualcosa per risolvere la nausea
+
+[R1277] Modalità accessibile e riconoscimento facciale per emozioni, e anche risolvere il malore
+
+[R1278] risolvere il malore
+
+[R1279] L'avatar mi è sembrato troppo robotico., e anche diminuire il malessere
+
+[R1280] Integrazione con la realtà fisica e domande aperte guidate, e anche risolvere il senso di nausea
+
+[R1281] Interazione con strumenti antichi e esperienze tematiche, e anche risolvere il senso di nausea
+
+[R1282] L'avatar conversazionale era molto empatico., e anche risolvere il senso di nausea
+
+[R1283] Visite notturne simulate e interazione con strumenti antichi, e anche risolvere il senso di nausea
+
+[R1284] Tecnologia vocale e contenuti adattivi all'età, e anche risolvere il senso di nausea
+
+[R1285] Esperienza per bambini e visione storica evolutiva, e anche risolvere il senso di nausea
+
+[R1286] fare qualcosa per risolvere la nausea
+
+[R1287] Esplorazione libera in stile open world e supporto per più lingue, e anche fare qualcosa per risolvere la nausea
+
+[R1288] Visione storica evolutiva e realtà aumentata integrata, e anche risolvere il senso di nausea
+
+[R1289] Tecnologia vocale e contenuti adattivi all'età, e anche fare qualcosa per risolvere la nausea
+
+[R1290] Modalità realtà mista e esperienze narrative, e anche diminuire il malessere
+
+[R1291] Riconoscimento facciale per emozioni e interazioni con altri visitatori, e anche diminuire il malessere
+
+[R1292] L'atmosfera generale era molto rilassante., e anche risolvere il malore
+
+[R1293] L'ambiente virtuale è incredibilmente realistico., e anche risolvere il malore
+
+[R1294] Esperienza per bambini e visione storica evolutiva, e anche risolvere il senso di nausea
+
+[R1295] diminuire il malessere
+
+[R1296] diminuire il malessere
+
+[R1297] La conversazione con l'avatar è stata fluida., e anche risolvere il senso di nausea
+
+[R1298] Mi sono divertito a interagire con gli oggetti., e anche diminuire il malessere
+
+[R1299] Visite notturne simulate e accesso a documenti d'archivio, e anche risolvere il senso di nausea
+
+[R1300] Chat con esperti e accesso a documentari, e anche diminuire il malessere
+
+[R1301] Integrazione con la realtà fisica e domande aperte guidate, e anche diminuire il malessere
+
+[R1302] Accesso a documentari, e anche risolvere il senso di nausea
+
+[R1303] Chat con esperti e accesso a documentari, e anche risolvere il senso di nausea
+
+[R1304] diminuire il malessere
+
+[R1305] Modalità accessibile e riconoscimento facciale per emozioni, e anche diminuire il malessere
+
+[R1306] Modalità accessibile e riconoscimento facciale per emozioni, e anche diminuire il malessere
+
+[R1307] Esperienza per bambini e visione storica evolutiva, e anche fare qualcosa per risolvere la nausea
+
+[R1308] Ho apprezzato la calma dell'ambiente virtuale., e anche fare qualcosa per risolvere la nausea
+
+[R1309] Modalità esperto e guide virtuali parlanti, e anche diminuire il malessere
+
+[R1310] risolvere il senso di nausea
+
+[R1311] Scenari animati e modalità fotografica, e anche fare qualcosa per risolvere la nausea
+
+[R1312] Interazione con strumenti antichi e sincronizzazione con l'app mobile, e anche fare qualcosa per risolvere la nausea
+
+[R1313] Integrazione con la realtà fisica e esperienze tematiche, e anche diminuire il malessere
+
+[R1314] Ho sentito un forte coinvolgimento emotivo., e anche diminuire il malessere
+
+[R1315] Ho apprezzato la calma dell'ambiente virtuale., e anche risolvere il malore
+
+[R1316] Visione a raggi X degli oggetti e esperienza per bambini, e anche fare qualcosa per risolvere la nausea
+
+[R1317] Gamification educativa e tecnologia vocale, e anche fare qualcosa per risolvere la nausea
+
+[R1318] Ho provato un senso di meraviglia nell'ambiente VR., e anche risolvere il malore
+
+[R1319] Esperienze in prima persona e accesso offline, e anche fare qualcosa per risolvere la nausea
+
+[R1320] Possibilità di fare domande e simulazioni storiche in tempo reale, e anche diminuire il malessere
+
+[R1321] Esperienze multisensoriali e visite notturne simulate, e anche diminuire il malessere
+
+[R1322] Visite notturne simulate e accesso a documenti d'archivio, e anche risolvere il malore
+
+[R1323] Incontri con avatar storici e visione a raggi x degli oggetti, e anche diminuire il malessere
+
+[R1324] diminuire il malessere
+
+[R1325] Tracce audio storiche e musica ambientale storica, e anche risolvere il malore
+
+[R1326] Interazione con strumenti antichi e esperienze tematiche, e anche diminuire il malessere
+
+[R1327] Tecnologia vocale e supporto per visori diversi, e anche risolvere il malore
+
+[R1328] L'ambiente in alcune stanze era troppo buio., e anche fare qualcosa per risolvere la nausea
+
+[R1329] La voce dell'avatar era rassicurante e chiara., e anche fare qualcosa per risolvere la nausea
+
+[R1330] Accesso a documentari e ricostruzioni 3d dettagliate, e anche risolvere il malore
+
+[R1331] risolvere il senso di nausea
+
+[R1332] Modalità realtà mista e esperienze narrative, e anche diminuire il malessere
+
+[R1333] L'illuminazione del museo virtuale era perfetta., e anche risolvere il malore
+
+[R1334] Mi sono divertito a interagire con gli oggetti., e anche diminuire il malessere
+
+[R1335] Chat con esperti e più interazione con gli oggetti, e anche risolvere il malore
+
+[R1336] fare qualcosa per risolvere la nausea
+
+[R1337] Esperienza per bambini e visione storica evolutiva, e anche diminuire il malessere
+
+[R1338] Traduzione simultanea e tracce audio storiche, e anche risolvere il malore
+
+[R1339] Interazione con strumenti antichi e sincronizzazione con l'app mobile, e anche risolvere il senso di nausea
+
+[R1340] Esperienze narrative e visione a raggi x degli oggetti, e anche risolvere il malore
+
+[R1341] Supporto per visori diversi e esplorazione libera in stile open world, e anche risolvere il senso di nausea
+
+[R1342] Interazione con strumenti antichi e esperienze tematiche, e anche risolvere il malore
+
+[R1343] Visite notturne simulate e sincronizzazione con l'app mobile, e anche risolvere il malore
+
+[R1344] L'interazione con l'avatar è stata un po' frustrante., e anche diminuire il malessere
+
+[R1345] diminuire il malessere
+
+[R1346] Chat con esperti e più interazione con gli oggetti, e anche diminuire il malessere
+
+[R1347] risolvere il senso di nausea
+
+[R1348] Contenuti storici dinamici e possibilità di fare domande, e anche fare qualcosa per risolvere la nausea
+
+[R1349] Interazione con strumenti antichi e sincronizzazione con l'app mobile, e anche risolvere il senso di nausea
+
+[R1350] Chat con esperti e più interazione con gli oggetti, e anche risolvere il senso di nausea
+
+[R1351] risolvere il malore
+
+[R1352] Mi sono sentito confuso all'inizio della visita., e anche risolvere il senso di nausea
+
+[R1353] Accesso a documentari, e anche risolvere il senso di nausea
+
+[R1354] Chat con esperti e accesso a documentari, e anche risolvere il malore
+
+[R1355] risolvere il malore
+
+[R1356] L'illuminazione del museo virtuale era perfetta., e anche risolvere il senso di nausea
+
+[R1357] fare qualcosa per risolvere la nausea
+
+[R1358] diminuire il malessere
+
+[R1359] L'interazione con l'avatar è stata un po' frustrante., e anche diminuire il malessere
+
+[R1360] risolvere il senso di nausea
+
+[R1361] Accesso a documentari e ricostruzioni 3d dettagliate, e anche diminuire il malessere
+
+[R1362] diminuire il malessere
+
+[R1363] Scenari animati e riconoscimento facciale per emozioni, e anche fare qualcosa per risolvere la nausea
+
+[R1364] L'ambiente virtuale è incredibilmente realistico., e anche fare qualcosa per risolvere la nausea
+
+[R1365] diminuire il malessere
+
+[R1366] La conversazione con l'avatar è stata fluida., e anche risolvere il senso di nausea
+
+[R1367] Supporto per visori diversi e esplorazione libera in stile open world, e anche fare qualcosa per risolvere la nausea
+
+[R1368] Accesso offline e modalità realtà mista, e anche risolvere il senso di nausea
+
+[R1369] risolvere il senso di nausea
+
+[R1370] Scenari animati e esperienze in prima persona, e anche risolvere il malore
+
+[R1371] Ho apprezzato la calma dell'ambiente virtuale., e anche risolvere il senso di nausea
+
+[R1372] Possibilità di fare domande e simulazioni storiche in tempo reale, e anche risolvere il malore
+
+[R1373] risolvere il senso di nausea
+
+[R1374] fare qualcosa per risolvere la nausea
+
+[R1375] Scenari animati e modalità fotografica, e anche risolvere il malore
+
+[R1376] Supporto per visori diversi e esplorazione libera in stile open world, e anche diminuire il malessere
+
+[R1377] L'esperienza a tratti è stata un po' noiosa., e anche fare qualcosa per risolvere la nausea
+
+[R1378] L'interazione con l'avatar è stata un po' frustrante., e anche diminuire il malessere
+
+[R1379] Mi sono sentito confuso all'inizio della visita., e anche risolvere il malore
+
+[R1380] L'avatar conversazionale era molto empatico., e anche risolvere il malore
+
+[R1381] Esperienze narrative e creazione del proprio avatar, e anche fare qualcosa per risolvere la nausea
+
+[R1382] Ricostruzioni 3D dettagliate e visite guidate registrate, e anche risolvere il malore
+
+[R1383] Tracce audio storiche e musica ambientale storica, e anche risolvere il malore
+
+[R1384] L'atmosfera generale era molto rilassante., e anche diminuire il malessere
+
+[R1385] fare qualcosa per risolvere la nausea
+
+[R1386] Visione a raggi X degli oggetti e esperienza per bambini, e anche risolvere il senso di nausea
+
+[R1387] Tecnologia vocale e supporto per visori diversi, e anche risolvere il malore
+
+[R1388] Riconoscimento facciale per emozioni e interazioni con altri visitatori, e anche risolvere il malore
+
+[R1389] fare qualcosa per risolvere la nausea
+
+[R1390] Interazione con strumenti antichi e esperienze tematiche, e anche fare qualcosa per risolvere la nausea
+
+[R1391] risolvere il malore
+
+[R1392] Mi sono sentito confuso all'inizio della visita., e anche risolvere il senso di nausea
+
+[R1393] Mi sono sentito confuso all'inizio della visita., e anche risolvere il senso di nausea
+
+[R1394] fare qualcosa per risolvere la nausea
+
+[R1395] risolvere il malore
+
+[R1396] Tracce audio storiche e visite notturne simulate, e anche risolvere il senso di nausea
+
+[R1397] Visite notturne simulate e interazione con strumenti antichi, e anche fare qualcosa per risolvere la nausea
+
+[R1398] diminuire il malessere
+
+[R1399] Visite notturne simulate e sincronizzazione con l'app mobile, e anche diminuire il malessere
+
+[R1400] risolvere il senso di nausea
+
+[R1401] L'avatar è stato gentile e molto disponibile., e anche diminuire il malessere
+
+[R1402] L'avatar conversazionale era molto empatico., e anche risolvere il malore
+
+[R1403] diminuire il malessere
+
+[R1404] Chat con esperti e più interazione con gli oggetti, e anche risolvere il malore
+
+[R1405] Traduzione simultanea e tracce audio storiche, e anche diminuire il malessere
+
+[R1406] Esperienze in prima persona e accesso offline, e anche risolvere il senso di nausea
+
+[R1407] diminuire il malessere
+
+[R1408] Visite notturne simulate e accesso a documenti d'archivio, e anche risolvere il malore
+
+[R1409] L'ambiente virtuale è incredibilmente realistico., e anche risolvere il malore
+
+[R1410] Tecnologia vocale e contenuti adattivi all'età, e anche diminuire il malessere
+
+[R1411] Modalità cooperativa e interazione con strumenti antichi, e anche diminuire il malessere
+
+[R1412] Accesso a documentari e ricostruzioni 3d dettagliate, e anche risolvere il malore
+
+[R1413] Riconoscimento facciale per emozioni e interazioni con altri visitatori, e anche risolvere il malore
+
+[R1414] fare qualcosa per risolvere la nausea
+
+[R1415] L'avatar conversazionale era molto empatico., e anche fare qualcosa per risolvere la nausea
+
+[R1416] Modalità esperto e guide virtuali parlanti, e anche risolvere il malore
+
+[R1417] Tecnologia vocale e contenuti adattivi all'età, e anche diminuire il malessere
+
+[R1418] Ricerca vocale e visite notturne simulate, e anche risolvere il malore
+
+[R1419] Ho sentito un forte coinvolgimento emotivo., e anche fare qualcosa per risolvere la nausea
+
+[R1420] Accesso offline e modalità realtà mista, e anche risolvere il malore
+
+[R1421] fare qualcosa per risolvere la nausea
+
+[R1422] risolvere il senso di nausea
+
+[R1423] Esperienze narrative e creazione del proprio avatar, e anche fare qualcosa per risolvere la nausea
+
+[R1424] fare qualcosa per risolvere la nausea
+
+[R1425] diminuire il malessere
+
+[R1426] Tecnologia vocale e contenuti adattivi all'età, e anche fare qualcosa per risolvere la nausea
+
+[R1427] Mi sono sentito un po' isolato nell'ambiente., e anche risolvere il senso di nausea
+
+[R1428] diminuire il malessere
+
+[R1429] fare qualcosa per risolvere la nausea
+
+[R1430] Ho provato molta curiosità esplorando., e anche fare qualcosa per risolvere la nausea
+
+[R1431] fare qualcosa per risolvere la nausea
+
+[R1432] risolvere il senso di nausea
+
+[R1433] L'interazione con l'avatar è stata un po' frustrante., e anche risolvere il malore
+
+[R1434] Scenari animati e riconoscimento facciale per emozioni, e anche diminuire il malessere
+
+[R1435] Ho sentito un forte coinvolgimento emotivo., e anche risolvere il senso di nausea
+
+[R1436] Chat con esperti e accesso a documentari, e anche diminuire il malessere
+
+[R1437] diminuire il malessere
+
+[R1438] La voce dell'avatar era rassicurante e chiara., e anche risolvere il malore
+
+[R1439] Chat con esperti e accesso a documentari, e anche diminuire il malessere
+
+[R1440] risolvere il malore
+
+[R1441] Gamification educativa e tecnologia vocale, e anche fare qualcosa per risolvere la nausea
+
+[R1442] Esperienze in prima persona e accesso offline, e anche diminuire il malessere
+
+[R1443] Visite notturne simulate e sincronizzazione con l'app mobile, e anche fare qualcosa per risolvere la nausea
+
